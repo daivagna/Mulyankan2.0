@@ -1,0 +1,38 @@
+{
+    "namespace": "Training.Mulyankan.Project.Serilization",
+	"references": [
+    "Training.Mulyankan.Foundation.Serilization",
+    "Training.Mulyankan.Feature.Serilization"
+    ],
+    "items": {
+      "includes": [
+	    {
+          "name": "templates",
+          "path": "/sitecore/templates/Project/Mulyankan",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+        },
+        {
+          "name": "components",
+          "path": "/sitecore/layout/Renderings/Project/Mulyankan",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+        },
+        {
+          "name": "placeholders",
+          "path": "/sitecore/layout/Placeholder Settings/Project/Mulyankan",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+        },
+        {
+          "name": "media",
+          "path": "/sitecore/Media Library/Project/Mulyankan",
+          "allowedPushOperations": "createAndUpdate"
+        },
+        {
+          "name": "content",
+          "path": "/sitecore/content/Mulyankan",
+          "allowedPushOperations": "createOnly"
+        }
+      ]
+    }
+  }
+  
+  

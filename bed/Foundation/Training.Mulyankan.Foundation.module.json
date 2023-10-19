@@ -1,0 +1,34 @@
+{
+    "namespace": "Training.Mulyankan.Foundation.Serilization",
+    "items": {
+      "includes": [
+	    {
+          "name": "templates",
+          "path": "/sitecore/templates/Foundation/CrossTraining",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+        },
+		{
+          "name": "components",
+          "path": "/sitecore/layout/Renderings/Foundation/CrossTraining",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+        },
+        {
+          "name": "placeholders",
+          "path": "/sitecore/layout/Placeholder Settings/Foundation/CrossTraining",
+          "allowedPushOperations": "CreateUpdateAndDelete"
+        },
+        {
+          "name": "apikey",
+          "path": "/sitecore/system/Settings/Services/API Keys/site api key",
+          "allowedPushOperations": "createOnly"
+        },
+        {
+          "name": "customresolvers",
+          "path": "/sitecore/system/Modules/Layout Service",
+          "allowedPushOperations": "createAndUpdate"
+        }
+      ]
+    }
+  }
+  
+  

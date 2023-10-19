@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind utilities;
+
+@tailwind components;
+
+a{
+    @apply text-[#26d9b5] hover:text-[#51E1C4];
+}

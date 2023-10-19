@@ -1,0 +1,33 @@
+{
+    "namespace": "Training.Mulyankan.Feature.Serilization",
+	"references": [
+    "Training.Mulyankan.Foundation.Serilization"
+    ],
+    "items": {
+      "includes": [
+	    {
+          "name": "templates",
+          "path": "/sitecore/templates/Feature/CrossTraining",
+          "allowedPushOperations": "createAndUpdate"
+        },
+        {
+          "name": "components",
+          "path": "/sitecore/layout/Renderings/Feature/CrossTraining",
+          "allowedPushOperations": "createAndUpdate"
+        },
+        {
+          "name": "placeholders",
+          "path": "/sitecore/layout/Placeholder Settings/Feature/CrossTraining",
+          "allowedPushOperations": "createAndUpdate"
+        }
+      ]
+    },
+	  "leprechaun": {
+    "configuration": {
+      "@extends": "Mulyankan.Base",
+      "@name": "Feature.CrossTraining"
+    }
+  }
+  }
+  
+  
