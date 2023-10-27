@@ -67,7 +67,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.config" />
+    <Content Include="App_Config\Include\zzz\z.Mulayankan_JSS_Editing_Secret.config" />
+    <Content Include="App_Config\Include\zzz\tatamotors.deploysecret.config.disable" />
+    <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
