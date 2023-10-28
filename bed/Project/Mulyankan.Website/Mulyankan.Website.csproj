@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="App_Config\Include\zzz\z.Mulayankan_JSS_Editing_Secret.config" />
     <Content Include="App_Config\Include\zzz\tatamotors.deploysecret.config.disable" />
+    <Content Include="Mulyankan.Website.wpp.targets" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
