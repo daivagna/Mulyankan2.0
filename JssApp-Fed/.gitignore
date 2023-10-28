@@ -31,3 +31,9 @@ scjssconfig.json
 
 # vercel
 .vercel
+
+# typescript
+*.tsbuildinfo
+
+# item type definitions
+/src/.generated
