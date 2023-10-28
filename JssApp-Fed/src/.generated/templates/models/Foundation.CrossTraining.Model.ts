@@ -39,4 +39,26 @@ export namespace CrossTraining.Base.Fields {
  }; 
 }
 
+export namespace CrossTraining.Base.Fields {
+    export type Icon = { 
+        fields?: { 
+            /**
+            * Represents the ClassName field (14535228-46de-4017-849b-12dfc21ea5d1).
+            */
+            ClassName: Field<string>;
+
+            /**
+            * Represents the Link field (69bb00b0-9a4c-4956-af22-e332e0051f8e).
+            */
+            Link: LinkField;
+
+            /**
+            * Represents the Title field (22935af9-ed95-4f2c-bbc9-97566b993f9d).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
 

@@ -1,0 +1,35 @@
+﻿---
+ID: "1cd28e17-d7ff-47d5-b210-47b25a19924d"
+Parent: "d9d282a4-0238-4298-8756-ede727e2fea0"
+Template: "8a296a41-313b-4413-8b5b-921ddf2494e6"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Navigation/Footer/Footer
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{4AFAC38B-CB29-42CC-AC67-7450C1C54E78}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T123825Z
+    - ID: "42083723-db92-49e7-8a9b-163331515b21"
+      Hint: SocialIcon
+      Value: |
+        {1AB663A2-EFED-405E-B9B4-DF695A7E0983}
+        {FC1102BF-FD3D-47F1-A954-3E1865380261}
+        {8968CE6F-166F-4392-865D-10EDC22E2301}
+        {509891FC-633D-480C-A236-BE9794827D05}
+        {B043B455-2E54-40AC-97C7-EB26BED4D209}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22a6e42f-c3ca-4f8f-b8e2-c3c98098a27b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T132626Z

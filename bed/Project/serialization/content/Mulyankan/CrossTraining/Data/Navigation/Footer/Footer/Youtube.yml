@@ -1,0 +1,41 @@
+﻿---
+ID: "b043b455-2e54-40ac-97c7-eb26bed4d209"
+Parent: "1cd28e17-d7ff-47d5-b210-47b25a19924d"
+Template: "4afac38b-cb29-42cc-ac67-7450c1c54e78"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Navigation/Footer/Footer/Youtube
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14535228-46de-4017-849b-12dfc21ea5d1"
+      Hint: ClassName
+      Value: " fa-youtube"
+    - ID: "22935af9-ed95-4f2c-bbc9-97566b993f9d"
+      Hint: Title
+      Value: Youtube
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T130906Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "69bb00b0-9a4c-4956-af22-e332e0051f8e"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://www.google.com/" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2911c420-a1ac-4312-8562-02f167f503c2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T132712Z

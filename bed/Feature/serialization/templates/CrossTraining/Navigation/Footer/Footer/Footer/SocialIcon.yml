@@ -1,12 +1,18 @@
 ﻿---
-ID: "466eaf38-13e7-4b60-bd5f-52055fb8ebf2"
-Parent: "5c2f8e9e-357c-427a-8b23-e1e861a96dc2"
-Template: "1105b8f8-1e00-426b-bf1f-c840742d827b"
-Path: /sitecore/content/Mulyankan/CrossTraining/Presentation/Page Designs/Standard Page Design
+ID: "42083723-db92-49e7-8a9b-163331515b21"
+Parent: "750571d7-1f58-4254-911e-8fad5fcb6428"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/CrossTraining/Navigation/Footer/Footer/Footer/SocialIcon
 SharedFields:
-- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
-  Hint: PartialDesigns
-  Value: "{CBFDCADC-CCE4-45BB-B689-EC6880857EB3}|{9E56E8CA-3AD9-4D46-AAF2-196E3AB09E93}"
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "{1CD28E17-D7FF-47D5-B210-47B25A19924D}"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Multilist
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -14,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T105526Z
+      Value: 20231028T122754Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ee24ad16-19f8-49da-953a-85c11fa979e6"
+      Value: "f0b955b1-8e72-4d23-af55-65db3ac8992e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T125409Z
+      Value: 20231028T123927Z
