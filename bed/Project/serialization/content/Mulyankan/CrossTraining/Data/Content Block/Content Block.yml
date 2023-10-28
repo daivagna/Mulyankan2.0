@@ -1,0 +1,29 @@
+﻿---
+ID: "06e03b0a-5d8d-455f-96ab-1a0edbcd491e"
+Parent: "13060c4d-cfb7-4ff4-9e3e-645af949fe99"
+Template: "019dcf56-7563-4354-917f-ccfb7c305716"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Content Block/Content Block
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T092412Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "674e6ac8-2985-4d00-8de3-36a1e15baa9a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Team management mobile apps don&rsquo;t get better than Pavo. It&rsquo;s probably the best app in the world for this purpose. Don&rsquo;t hesitate to give it a try today and you will fall in love with it.</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Headline
+      Value: Team management
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T100514Z

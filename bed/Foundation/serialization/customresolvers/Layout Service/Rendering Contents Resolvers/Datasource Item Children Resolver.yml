@@ -9,7 +9,10 @@ SharedFields:
   Value: ./*
 - ID: "52b17c6d-d151-46c5-a986-b88050073ef0"
   Hint: UseContextItem
-  Value: 0
+  Value: 
+- ID: "9edd2fcc-04ae-4230-84b4-c46c963f2284"
+  Hint: Rendering Contents Resolver Parameters
+  Value: depth=2
 - ID: "de218ede-a9ad-4b04-86c5-9ff593ccf39d"
   Hint: Type
   Value: Sitecore.LayoutService.ItemRendering.ContentsResolvers.RenderingContentsResolver, Sitecore.LayoutService
@@ -27,4 +30,11 @@ Languages:
         sitecore\admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "fa4e2b8d-2a1f-4cf9-b0c3-9f8a52ac3507"
+      Value: "4aede2cb-bd1e-47b2-b751-101f2ba8d922"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T110240Z

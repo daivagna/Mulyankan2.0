@@ -13,10 +13,27 @@ SharedFields:
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
+          uid="{6AABBE28-64FD-425F-A3B4-E157FB2C20EC}"
+          p:before="*"
+          s:ds="{B1F0EA7A-BB79-4E4F-8752-90DB2F5DA58C}"
+          s:id="{A3F6CEE1-62F9-4B15-A05C-DDC285E02FBB}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{DA3FD963-4F94-47E6-815E-1CC97D3AA0C9}"
+          p:after="r[@uid='{6AABBE28-64FD-425F-A3B4-E157FB2C20EC}']"
+          s:ds="{06E03B0A-5D8D-455F-96AB-1A0EDBCD491E}"
+          s:id="{7BFDC05A-A6C8-4A3C-B2E8-9238E729947E}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
           uid="{CFE0E928-30D9-453C-B2EC-B17B9C1D5431}"
+          p:after="*[1=2]"
           s:ds="{3FECF040-6D71-46B2-B019-8A31DD3C8633}"
           s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-          s:par="GridParameters&amp;FieldNames&amp;Styles&amp;DynamicPlaceholderId=1"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;GridParameters&amp;DynamicPlaceholderId=1"
           s:ph="headless-main"
           s:ccb="Clear on publish" />
       </d>
@@ -45,7 +62,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5edb8188-d66d-462a-8a89-b15b63c13833"
+      Value: "a276ae9a-662d-4a00-bfb9-3fc76d7322e9"
     - ID: "9de29a57-9fb6-4d64-bb6e-22b74cf67485"
       Hint: Title
       Value: CrossTraining
@@ -55,4 +72,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231018T153230Z
+      Value: 20231028T092829Z

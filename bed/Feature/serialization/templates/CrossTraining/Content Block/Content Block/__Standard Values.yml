@@ -1,0 +1,31 @@
+﻿---
+ID: "b1f01fc6-e754-4d53-9887-73d5912d1338"
+Parent: "019dcf56-7563-4354-917f-ccfb7c305716"
+Template: "019dcf56-7563-4354-917f-ccfb7c305716"
+Path: /sitecore/templates/Feature/CrossTraining/Content Block/Content Block/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T091424Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ea5ff0f8-7180-4988-a823-01eaddd69532"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T091605Z

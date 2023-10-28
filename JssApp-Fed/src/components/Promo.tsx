@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   Image as JssImage,
-  Link as JssLink,
   RichText as JssRichText,
   ImageField,
   Field,
@@ -31,6 +30,7 @@ const PromoDefaultComponent = (props: PromoProps): JSX.Element => (
 
 export const Default = (props: PromoProps): JSX.Element => {
   const id = props.params.RenderingIdentifier;
+  console.log(id);
   if (props.fields) {
     return (
       <>
@@ -57,7 +57,7 @@ export const Default = (props: PromoProps): JSX.Element => {
 
                   <Link
                     className="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700"
-                    href={props.fields.PromoLink.value.href}
+                    href={props.fields.PromoLink.value.href as string}
                   >
                     {props.fields.PromoLink.value.text}
                   </Link>

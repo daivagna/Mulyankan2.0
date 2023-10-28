@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "1f66862d-a5e3-405f-8e3e-b787b4c39b12"
       Hint: PromoText2
-      Value: This is sample text
+      Value: This is sample text text
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20231018T152338Z
@@ -27,7 +27,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f5f29160-bcc5-4f4d-ac17-f992fcbdfd5b"
+      Value: "d444902c-86b5-4364-ab7d-eb8168496fff"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: this is another sample text
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231018T153118Z
+      Value: 20231026T115937Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |

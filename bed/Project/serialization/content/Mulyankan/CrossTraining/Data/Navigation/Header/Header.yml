@@ -1,0 +1,40 @@
+﻿---
+ID: "705eec1d-402d-49c9-9731-e98bdbec06ec"
+Parent: "175a4180-729c-4946-8068-60ab7a7179c3"
+Template: "48ce59c0-8afb-4361-a039-fb0c6a3f425a"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Navigation/Header/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T103300Z
+    - ID: "681d74f7-8585-475f-93ab-9d57dbf26098"
+      Hint: LogoLink
+      Value: |
+        <link text="Horizontal Digital" linktype="anchor" url="https://www.horizontaldigital.com" anchor="https://www.horizontaldigital.com" title="Horizontal Digital" class="" />
+    - ID: "73ce6680-4193-457b-9a90-d12684227e70"
+      Hint: Logo
+      Value: |
+        <image mediaid="{F788FC61-5ADF-43E7-84CD-24615AB71F51}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "91d2e599-8f72-4234-9285-c93ad9b3e9f3"
+    - ID: "a8a06d9d-b646-473e-8fa7-48fe9d3423a1"
+      Hint: NavigationLinks
+      Value: |
+        {EC7D2701-0378-4B43-BA34-0029D8667D30}
+        {CB2C57C2-5460-41D9-B982-7DB46EB162DA}
+        {227AA684-43F8-4A13-AE22-B576DB1A8A05}
+        {44E9A290-3C9B-4FE2-ABEB-95041C71AC32}
+        {BCFCD14E-B047-4954-9014-96EAC125BFCD}
+        {0FDA142E-9831-4ADC-8303-30C3CF1B95D5}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T115904Z
