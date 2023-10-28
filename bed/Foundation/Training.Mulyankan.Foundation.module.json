@@ -28,6 +28,12 @@
           "allowedPushOperations": "createAndUpdate"
         }
       ]
+    },
+    "leprechaun": {
+      "configuration": {
+        "@extends": "CrossTraining.Base",
+        "@name": "Foundation.CrossTraining"
+      }
     }
   }
   
