@@ -1,27 +1,16 @@
 ﻿---
-ID: "9b9a2fa5-59fb-48f5-addc-cd87cf477170"
-Parent: "1db9b0cc-91c4-435a-9076-806978e0e74f"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/CrossTraining/Components/Banner/Banner Details/SecondaryCTA
-SharedFields:
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: General Link
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 300
+ID: "1cbd3124-e40d-4512-bd58-8236086d2e68"
+Parent: "58b3e9fb-5549-49d8-80cd-720232321647"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/CrossTraining/Content Block
 Languages:
 - Language: en
-  Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: Secondary CTA
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T063333Z
+      Value: 20231028T090926Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5184e91c-47c7-4731-9358-7fbbcad96efe"
+      Value: "24f7329b-8908-41b5-be81-118450d5e228"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T063456Z
+      Value: 20231028T090926Z

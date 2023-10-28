@@ -1,21 +1,21 @@
 ﻿---
-ID: "05e303df-1d7d-46ab-8ee2-98e4d74e438e"
+ID: "823a5f43-883d-4a3a-b3c1-97c3bd110461"
 Parent: "1db9b0cc-91c4-435a-9076-806978e0e74f"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/CrossTraining/Components/Banner/Banner Details/PrimaryCTA
+Path: /sitecore/templates/Feature/CrossTraining/Banner/Banner/Banner Details/PrimaryCTAText
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: General Link
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 100
+  Value: 200
 Languages:
 - Language: en
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: Primary CTA
+    Value: Primary CTA Text
   Versions:
   - Version: 1
     Fields:
@@ -32,11 +32,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6eddd700-d734-47a7-92ec-d1aaecac67a6"
+      Value: "3df41d7c-3b4f-4b6c-997b-5616151f3e7d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T063429Z
+      Value: 20231028T063440Z

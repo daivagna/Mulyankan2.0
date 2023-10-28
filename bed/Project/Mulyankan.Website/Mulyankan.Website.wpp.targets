@@ -25,8 +25,8 @@
     <Exec Condition="'$(BuildingInsideVisualStudio)' == 'true'" WorkingDirectory="$(SolutionDir)" Command="dotnet tool restore"/>
   </Target>
 
-  <Target Name="Leprechaun" AfterTargets="DotNetToolRestore">
-    <Exec Condition="'$(BuildingInsideVisualStudio)' == 'true'" Command="dotnet leprechaun /g /c $(SolutionDir)bed/Leprechaun.config"/>
-  </Target>
+  <!--<Target Name="Leprechaun" AfterTargets="DotNetToolRestore">
+    <Exec Condition="'$(BuildingInsideVisualStudio)' == 'true'" Command="dotnet leprechaun /c $(SolutionDir)Leprechaun.config"/>
+  </Target>-->
 
 </Project>

@@ -36,4 +36,4 @@ scjssconfig.json
 *.tsbuildinfo
 
 # item type definitions
-/src/.generated
+# /src/.generated
