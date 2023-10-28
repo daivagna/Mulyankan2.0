@@ -1,44 +1,32 @@
 import React from 'react';
 import { Field, LinkField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import { CrossTraining } from '../.generated/templates/models/Feature.CrossTraining.Model';
 import Link from 'next/link';
-
-interface Fields {
-  Description: Field<string>;
-  PrivacyTitle: Field<string>;
-  TermsTitle: Field<string>;
-  PrivacyLink: LinkField;
-  TermsLink: LinkField;
-  SocialIcons: [];
-}
-
-type FooterProps = {
-  params: { [key: string]: string };
-  fields: Fields;
-};
+type FooterProps = CrossTraining.Navigation.Footer.Fields.Footer;
 
 const FooterDefaultComponent = (): JSX.Element => (
   <div className="component promo">
     <div className="component-content">
-      <span className="is-empty-hint">Promo</span>
+      <span className="is-empty-hint">Footer</span>
     </div>
   </div>
 );
 
 export const Default = (props: FooterProps): JSX.Element => {
   //const id = props.params.RenderingIdentifier;
-  console.log(JSON.stringify(props.fields.SocialIcons));
+  //console.log(JSON.stringify(props.fields.));
   if (props.fields) {
     return (
       <>
         <div className="footer bg-indigo-300">
           <div className="container px-4 sm:px-8 text-center">
-            <RichText field={props.fields.Description}></RichText>
+            <RichText fields={props.fields.Description?.value}></RichText>
             <div className="social-container">
-              {props.fields.SocialIcons.map((fields: any) => (
-                <span className="fa-stack">
-                  <Link href={fields.fields.LinkUrl?.value.href}>
+              {props.fields?.SocialIcon.map((fields: any, index) => (
+                <span className="fa-stack" key={index}>
+                  <Link href={fields.fields.Link?.value.href}>
                     <i className="fas fa-circle fa-stack-2x"></i>
-                    <i className={fields.fields.FontAwesomeClass?.fields.Class.value}></i>
+                    <i className={fields.fields.FontAwesomeClass?.fields.ClassName.value}></i>
                     {fields.fields.Title?.value}
                   </Link>
                 </span>
@@ -57,18 +45,18 @@ export const Default = (props: FooterProps): JSX.Element => {
             <ul className="mb-4 list-unstyled p-small px-20 flex lg:grid-cols-2">
               <li className="mb-2 pr-2.5">
                 <a
-                  href={props.fields.TermsLink.value.href}
+                  href={props.fields.TermsAndConditionLink?.value.href}
                   className="text-blue-600 hover:text-blue-800 visited:text-purple-600"
                 >
-                  {props.fields.TermsTitle.value}
+                  {props.fields.TermsAndConditionTitle?.value}
                 </a>
               </li>
               <li className="mb-2">
                 <Link
-                  href={props.fields.PrivacyLink.value.href}
+                  href={props.fields.PrivarcyPolicyLink?.value.href}
                   className="text-blue-600 hover:text-blue-800 visited:text-purple-600"
                 >
-                  {props.fields.PrivacyTitle.value}
+                  {props.fields.PrivarcyPolicyTitle?.value}
                 </Link>
               </li>
             </ul>
