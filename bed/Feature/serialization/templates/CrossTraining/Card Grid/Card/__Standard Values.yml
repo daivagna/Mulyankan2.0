@@ -1,0 +1,30 @@
+﻿---
+ID: "03ca0cb7-5cea-4334-ad51-a53c783d6060"
+Parent: "6f099d84-b313-4a59-abed-64522507809f"
+Template: "6f099d84-b313-4a59-abed-64522507809f"
+Path: /sitecore/templates/Feature/CrossTraining/Card Grid/Card/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T130803Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8768fab-aba3-4c61-a7ad-d134a30c49b9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Add card description here</p>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T132047Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{B2896923-A36C-473E-8C6A-DC06CFD928DC}" />
