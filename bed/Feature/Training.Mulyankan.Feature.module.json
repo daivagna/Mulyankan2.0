@@ -22,12 +22,12 @@
         }
       ]
     },
-	  "leprechaun": {
-    "configuration": {
-      "@extends": "Mulyankan.Base",
-      "@name": "Feature.CrossTraining"
+    "leprechaun": {
+      "configuration": {
+        "@extends": "CrossTraining.Base",
+        "@name": "Feature.CrossTraining"
+      }
     }
-  }
   }
   
   
