@@ -1,27 +1,20 @@
 ﻿---
-ID: "bcefbad7-0013-4e00-ae9f-e14beba2ff61"
-Parent: "1db9b0cc-91c4-435a-9076-806978e0e74f"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/CrossTraining/Components/Banner/Banner Details/Image
+ID: "13060c4d-cfb7-4ff4-9e3e-645af949fe99"
+Parent: "adb5e659-694a-4e42-8e4b-b377e1d53ee7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Content Block
 SharedFields:
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: Image
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 500
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{019DCF56-7563-4354-917F-CCFB7C305716}"
 Languages:
 - Language: en
-  Fields:
-  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
-    Hint: Title
-    Value: Banner Image
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T063333Z
+      Value: 20231028T092341Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8cfacc2f-57d7-4a85-b372-96d3213bc1bc"
+      Value: "2d121f46-81c3-4051-af61-25bb9e0291fb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T063516Z
+      Value: 20231028T092401Z

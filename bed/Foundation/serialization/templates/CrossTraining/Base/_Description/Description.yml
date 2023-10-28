@@ -1,8 +1,8 @@
 ﻿---
-ID: "21a1b7ad-eda9-471a-bb51-fdd4ef36fe2f"
-Parent: "d3af2197-edd5-43a1-b4f6-1b8b28407c0b"
+ID: "7fadcfae-08aa-45b1-a37d-3699bb5b2814"
+Parent: "b505d7bb-a40f-451a-b2bb-a4781e7838dc"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Foundation/CrossTraining/Base/Content Block/Content
+Path: /sitecore/templates/Foundation/CrossTraining/Base/_Description/Description
 Languages:
 - Language: en
   Versions:
@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T062333Z
+      Value: 20231028T091156Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -21,11 +21,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a31b43e6-f746-4149-aa41-32d3670d622f"
+      Value: "f581eb0d-8479-478f-afd0-729a365e7653"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T062333Z
+      Value: 20231028T091156Z

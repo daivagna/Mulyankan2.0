@@ -1,21 +1,21 @@
 ﻿---
-ID: "eaccab0a-4a50-44cf-8b9d-d9758ecefaea"
+ID: "53cfdc9d-c393-4026-bb93-0ce951980f74"
 Parent: "1db9b0cc-91c4-435a-9076-806978e0e74f"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/CrossTraining/Components/Banner/Banner Details/BackgroundColor
+Path: /sitecore/templates/Feature/CrossTraining/Banner/Banner/Banner Details/SecondaryCTAText
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
   Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 600
+  Value: 400
 Languages:
 - Language: en
   Fields:
   - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
     Hint: Title
-    Value: Background Color
+    Value: Secondary CTA Text
   Versions:
   - Version: 1
     Fields:
@@ -32,11 +32,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "adf9fc7e-3e1c-46e3-b769-ec0422dc07e6"
+      Value: "f4f045e0-18b5-41e8-a6ff-17422eccae54"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T063526Z
+      Value: 20231028T063506Z

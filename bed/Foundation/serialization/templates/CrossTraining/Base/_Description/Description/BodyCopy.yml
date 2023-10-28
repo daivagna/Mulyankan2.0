@@ -1,30 +1,27 @@
 ﻿---
-ID: "adb5e659-694a-4e42-8e4b-b377e1d53ee7"
-Parent: "84a83b29-2649-42ee-9d0d-bb660071b935"
-Template: "a29d272e-9d48-453c-9e9d-b47585fa7f20"
-Path: /sitecore/content/Mulyankan/CrossTraining/Data
-BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+Parent: "7fadcfae-08aa-45b1-a37d-3699bb5b2814"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Foundation/CrossTraining/Base/_Description/Description/BodyCopy
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: |
-    {22B4377D-A57B-468D-8238-BCD18FAF4EEA}
-    {019DCF56-7563-4354-917F-CCFB7C305716}
-    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 1400
-- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
-  Hint: __Originator
-  Value: "{8EF3BF41-390E-49EE-A8D1-BB139DAF63CB}"
+  Value: 100
 Languages:
 - Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Description
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231018T103156Z
+      Value: 20231028T091156Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +32,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ba2dafdc-9a2f-4e28-811b-684f964f14d8"
+      Value: "40d36d66-db8b-464f-8a70-5fa92243f0f7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T092017Z
+      Value: 20231028T100424Z
