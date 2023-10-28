@@ -15,6 +15,10 @@ Languages:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20231028T123825Z
+    - ID: "31585ef3-d311-4f70-bbc6-11985049b41a"
+      Hint: TermsAndConditionLink
+      Value: |
+        <link linktype="external" url="https://www.horizontaldigital.com" anchor="" target="" />
     - ID: "42083723-db92-49e7-8a9b-163331515b21"
       Hint: SocialIcon
       Value: |
@@ -25,11 +29,11 @@ Languages:
         {B043B455-2E54-40AC-97C7-EB26BED4D209}
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "22a6e42f-c3ca-4f8f-b8e2-c3c98098a27b"
+      Value: "dd4f5ceb-157b-4b1f-9266-1a46ed8b3b32"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T132626Z
+      Value: 20231028T133948Z

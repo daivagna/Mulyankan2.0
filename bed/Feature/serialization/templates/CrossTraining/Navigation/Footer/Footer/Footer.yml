@@ -3,6 +3,10 @@ ID: "750571d7-1f58-4254-911e-8fad5fcb6428"
 Parent: "8a296a41-313b-4413-8b5b-921ddf2494e6"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: /sitecore/templates/Feature/CrossTraining/Navigation/Footer/Footer/Footer
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/text.png
 Languages:
 - Language: en
   Versions:
@@ -21,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6b01901b-d5ae-480d-b5c4-f78466215347"
+      Value: "f4b40999-58e6-4383-aa17-829dfbfa06a1"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T123927Z
+      Value: 20231028T133511Z

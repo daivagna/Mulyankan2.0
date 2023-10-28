@@ -2,7 +2,7 @@
 ID: "de52721a-0575-48cb-b1dc-ebe520a702a1"
 Parent: "a1bda4c5-f1b2-4b91-8887-01ddf9b99f80"
 Template: "a1bda4c5-f1b2-4b91-8887-01ddf9b99f80"
-Path: /sitecore/templates/Feature/CrossTraining/Card Grid/Cards/__Standard Values
+Path: /sitecore/templates/Feature/CrossTraining/Card Grid/Cards Folder/__Standard Values
 SharedFields:
 - ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
   Hint: __Masters

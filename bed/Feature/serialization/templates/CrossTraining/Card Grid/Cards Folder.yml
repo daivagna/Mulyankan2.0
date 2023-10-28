@@ -2,7 +2,7 @@
 ID: "a1bda4c5-f1b2-4b91-8887-01ddf9b99f80"
 Parent: "f0e6c9fd-4afc-4373-aa93-32acf315c34c"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/CrossTraining/Card Grid/Cards
+Path: /sitecore/templates/Feature/CrossTraining/Card Grid/Cards Folder
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

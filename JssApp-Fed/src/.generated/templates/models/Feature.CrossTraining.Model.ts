@@ -84,7 +84,7 @@ export namespace CrossTraining.CardGrid.Fields {
 }
 
 export namespace CrossTraining.CardGrid.Fields {
-    export type Cards = { 
+    export type CardsFolder = { 
         fields?: {  
         }
  }; 
