@@ -1,0 +1,23 @@
+﻿---
+ID: "c41c9934-307f-4249-b5b4-77da2ce45739"
+Parent: "6b4b0f39-4b1b-44e2-bb45-afbc074a7ea7"
+Template: "6f099d84-b313-4a59-abed-64522507809f"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Card Grid/Cards Folder/Card-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T132129Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e74f09d-3be1-47ae-a2ab-d3415f06efa3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T132129Z

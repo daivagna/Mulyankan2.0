@@ -55,11 +55,83 @@ export namespace CrossTraining.Banner.Fields {
  }; 
 }
 
+export namespace CrossTraining.CardGrid.Fields {
+    export type Card = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the Card Image field (fa5330b6-1854-4649-8ffc-d3f2b27c4c8a).
+            */
+            CardImage: ImageField;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.CardGrid.Fields {
+    export type CardGrid = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the Cards field (f7872135-6bbd-4f08-a57e-0834be2627b0).
+            */
+            Cards: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.CardGrid.Fields {
+    export type CardsFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
 export namespace CrossTraining.ContentBlock.Fields {
     export type ContentBlock = 
             CrossTraining.Base.Fields.Headline & 
             CrossTraining.Base.Fields.Description & { 
         fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Navigation.Footer.Fields {
+    export type Footer = { 
+        fields?: { 
+            /**
+            * Represents the CopyRightText field (5f66a9b7-51cc-4b46-b3f7-4ed5a06c38d1).
+            */
+            CopyRightText: Field<string>;
+
+            /**
+            * Represents the PrivarcyPolicyLink field (b4d733a3-54e3-4f9c-8934-41a142079b41).
+            */
+            PrivarcyPolicyLink: LinkField;
+
+            /**
+            * Represents the PrivarcyPolicyTitle field (73aa3ab2-502a-44ea-a650-930c5adbf525).
+            */
+            PrivarcyPolicyTitle: Field<string>;
+
+            /**
+            * Represents the SocialIcon field (42083723-db92-49e7-8a9b-163331515b21).
+            */
+            SocialIcon: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the TermsAndConditionLink field (31585ef3-d311-4f70-bbc6-11985049b41a).
+            */
+            TermsAndConditionLink: LinkField;
+
+            /**
+            * Represents the TermsAndConditionTitle field (6fc007ad-c85d-4422-80b1-9c14fd1c99e3).
+            */
+            TermsAndConditionTitle: Field<string>;
+ 
         }
  }; 
 }
