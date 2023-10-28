@@ -185,4 +185,83 @@ export namespace CrossTraining.Navigation.Header.Fields {
  }; 
 }
 
+export namespace CrossTraining.Tab.Fields {
+    export type TabDetails = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the AdditionalInfo field (e6a08e5a-e3ce-4eb0-baca-4e7089f017f1).
+            */
+            AdditionalInfo: Field<string>;
+
+            /**
+            * Represents the Image field (60626f7c-e081-4b3f-b4fb-e74be3fb9320).
+            */
+            Image: ImageField;
+
+            /**
+            * Represents the Link field (468f5211-913d-4c34-b005-de0aacc7eacf).
+            */
+            Link: LinkField;
+
+            /**
+            * Represents the Role field (c4fd37d6-cf25-4807-b92c-fed75255d35f).
+            */
+            Role: Field<string>;
+
+            /**
+            * Represents the Skills field (16566a71-60d1-4e9c-a716-ed73b0f46eb8).
+            */
+            Skills: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Tab.Fields {
+    export type TabsFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Tab.Fields {
+    export type TabsList = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the Tabs field (e648cbda-67a6-4ee8-b3b1-ebce3f5dc779).
+            */
+            Tabs: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.VideoComponent.Fields {
+    export type VideoComponent = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the headingTag field (e0a4a613-4b3e-4502-8dac-76edbc9b6d71).
+            */
+            headingTag: Field<string>;
+
+            /**
+            * Represents the VideoIframe field (520bd613-53f2-4cca-93b2-1a361d2dce9b).
+            */
+            VideoIframe: Field<string>;
+
+            /**
+            * Represents the VideoUrl field (dd0c952f-e1e7-4fa1-9059-85ff7ecc990e).
+            */
+            VideoUrl: Field<string>;
+ 
+        }
+ }; 
+}
+
 

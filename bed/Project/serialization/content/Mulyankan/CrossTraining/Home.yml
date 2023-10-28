@@ -37,6 +37,14 @@ SharedFields:
           s:ph="headless-main"
           s:ccb="Clear on publish" />
         <r
+          uid="{1A4C9D85-B452-460D-99D7-0D76A0012D1E}"
+          p:after="r[@uid='{C9033944-8DC2-4381-9E85-40C76087BE73}']"
+          s:ds="{804E01E3-5345-4B11-9589-755FCAD79475}"
+          s:id="{3C90578C-A3F8-4D0E-BD70-3DD636A5FE37}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
           uid="{CFE0E928-30D9-453C-B2EC-B17B9C1D5431}"
           p:after="*[1=2]"
           s:ds="{3FECF040-6D71-46B2-B019-8A31DD3C8633}"
@@ -70,7 +78,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6dc9f2f3-af61-4efa-8350-4d6ef2d96f9c"
+      Value: "0e06f454-cd67-4d77-9b35-276673acef01"
     - ID: "9de29a57-9fb6-4d64-bb6e-22b74cf67485"
       Hint: Title
       Value: CrossTraining
@@ -80,4 +88,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T133030Z
+      Value: 20231028T150039Z

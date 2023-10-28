@@ -1,0 +1,29 @@
+﻿---
+ID: "3193219d-689f-41f3-a3d9-b9c239dd9f56"
+Parent: "6883faef-4a40-403d-93cd-40fa8323a933"
+Template: "c8d746bc-b833-457a-86fb-76b3daee22ac"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Video Component/Video Component
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T150045Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "007a8ee8-9fbc-401c-81f4-f43b74796a50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T150144Z
+    - ID: "dd0c952f-e1e7-4fa1-9059-85ff7ecc990e"
+      Hint: VideoUrl
+      Value: "https://www.youtube.com/results?search_query=horizontal+digital"
+    - ID: "e0a4a613-4b3e-4502-8dac-76edbc9b6d71"
+      Hint: headingTag
+      Value: h2

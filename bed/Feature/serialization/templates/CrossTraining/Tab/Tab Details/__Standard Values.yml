@@ -1,0 +1,29 @@
+﻿---
+ID: "8c8fc2f5-b0ad-4aa0-b68d-b9c959e4135f"
+Parent: "90f09164-196c-49e6-957c-fa402d4ca3cb"
+Template: "90f09164-196c-49e6-957c-fa402d4ca3cb"
+Path: /sitecore/templates/Feature/CrossTraining/Tab/Tab Details/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T144723Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "00009b7c-683b-4fb2-be09-4ee705cac0e7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Add tab description here</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Add tab title here
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T144815Z
