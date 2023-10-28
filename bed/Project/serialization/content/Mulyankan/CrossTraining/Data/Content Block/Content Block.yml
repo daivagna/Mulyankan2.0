@@ -13,18 +13,17 @@ Languages:
       Value: 20231028T092412Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "785e7544-8f8d-417d-8d51-a114497642b5"
+      Value: "674e6ac8-2985-4d00-8de3-36a1e15baa9a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
       Hint: BodyCopy
-      Value: |
-        <span style="color: #1f2937; text-align: center;">Team management mobile apps don&rsquo;t get better than Pavo. It&rsquo;s probably the best app in the world for this purpose. Don&rsquo;t hesitate to give it a try today and you will fall in love with it.</span>
+      Value: <p>Team management mobile apps don&rsquo;t get better than Pavo. It&rsquo;s probably the best app in the world for this purpose. Don&rsquo;t hesitate to give it a try today and you will fall in love with it.</p>
     - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
       Hint: Headline
       Value: Team management
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T100408Z
+      Value: 20231028T100514Z

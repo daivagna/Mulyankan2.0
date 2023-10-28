@@ -31,14 +31,9 @@ export namespace CrossTraining.Base.Fields {
     export type Headline = { 
         fields?: { 
             /**
-            * Represents the Content field (1ffa6735-cc3e-420d-96f5-c9239231f202).
+            * Represents the Heading field (c177f5c1-03e4-4eaa-812e-64818088203f).
             */
-            Content: Field<string>;
-
-            /**
-            * Represents the Title field (c177f5c1-03e4-4eaa-812e-64818088203f).
-            */
-            Title: Field<string>;
+            Heading: Field<string>;
  
         }
  }; 
