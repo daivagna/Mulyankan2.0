@@ -1,5 +1,5 @@
 import React from 'react';
-import { Field, LinkField, RichText } from '@sitecore-jss/sitecore-jss-nextjs';
+import { RichText as JssRichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import { CrossTraining } from '../.generated/templates/models/Feature.CrossTraining.Model';
 import Link from 'next/link';
 type FooterProps = CrossTraining.Navigation.Footer.Fields.Footer;
@@ -14,13 +14,13 @@ const FooterDefaultComponent = (): JSX.Element => (
 
 export const Default = (props: FooterProps): JSX.Element => {
   //const id = props.params.RenderingIdentifier;
-  //console.log(JSON.stringify(props.fields.));
+  //console.log(JSON.stringify(props.fields.Description?.value));
   if (props.fields) {
     return (
       <>
         <div className="footer bg-indigo-300">
-          <div className="container px-4 sm:px-8 text-center">
-            <RichText fields={props.fields.Description?.value}></RichText>
+          <div className="px-4 sm:px-8 text-center">
+            <JssRichText field={props.fields.Description}></JssRichText>
             <div className="social-container">
               {props.fields?.SocialIcon.map((fields: any, index) => (
                 <span className="fa-stack" key={index}>
@@ -35,7 +35,7 @@ export const Default = (props: FooterProps): JSX.Element => {
           </div>
         </div>
         <div className="copyright bg-indigo-300">
-          <div className="container px-4 sm:px-8 lg:grid lg:grid-cols-1">
+          <div className="px-4 sm:px-8 lg:grid lg:grid-cols-1">
             <p className="pb-2 p-small statement text-center">
               Copyright ©
               <a href="#your-link" className="no-underline text-black">
@@ -51,6 +51,7 @@ export const Default = (props: FooterProps): JSX.Element => {
                   {props.fields.TermsAndConditionTitle?.value}
                 </a>
               </li>
+              <li className="h-[25px] bg-black w-[1px] mr-2.5"></li>
               <li className="mb-2">
                 <Link
                   href={props.fields.PrivarcyPolicyLink?.value.href}
