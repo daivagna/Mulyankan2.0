@@ -103,32 +103,37 @@ export namespace CrossTraining.Navigation.Footer.Fields {
     export type Footer = { 
         fields?: { 
             /**
-            * Represents the CopyRightText field (5f66a9b7-51cc-4b46-b3f7-4ed5a06c38d1).
+            * Represents the Copyright Text field (5f66a9b7-51cc-4b46-b3f7-4ed5a06c38d1).
             */
             CopyRightText: Field<string>;
 
             /**
-            * Represents the PrivarcyPolicyLink field (b4d733a3-54e3-4f9c-8934-41a142079b41).
+            * Represents the Footer Description field (af77708e-8ee0-446e-b1d9-8e3c6b99ac25).
+            */
+            Description: Field<string>;
+
+            /**
+            * Represents the Privacy Policy Link field (b4d733a3-54e3-4f9c-8934-41a142079b41).
             */
             PrivarcyPolicyLink: LinkField;
 
             /**
-            * Represents the PrivarcyPolicyTitle field (73aa3ab2-502a-44ea-a650-930c5adbf525).
+            * Represents the Privacy Policy Title field (73aa3ab2-502a-44ea-a650-930c5adbf525).
             */
             PrivarcyPolicyTitle: Field<string>;
 
             /**
-            * Represents the SocialIcon field (42083723-db92-49e7-8a9b-163331515b21).
+            * Represents the Social Icon field (42083723-db92-49e7-8a9b-163331515b21).
             */
             SocialIcon: Sitecore.Override.ItemEx[];
 
             /**
-            * Represents the TermsAndConditionLink field (31585ef3-d311-4f70-bbc6-11985049b41a).
+            * Represents the Terms and Conditions Link field (31585ef3-d311-4f70-bbc6-11985049b41a).
             */
             TermsAndConditionLink: LinkField;
 
             /**
-            * Represents the TermsAndConditionTitle field (6fc007ad-c85d-4422-80b1-9c14fd1c99e3).
+            * Represents the Terms and Conditions Title field (6fc007ad-c85d-4422-80b1-9c14fd1c99e3).
             */
             TermsAndConditionTitle: Field<string>;
  
@@ -145,12 +150,12 @@ export namespace CrossTraining.Navigation.Header.Fields {
             Logo: ImageField;
 
             /**
-            * Represents the LogoLink field (681d74f7-8585-475f-93ab-9d57dbf26098).
+            * Represents the Logo Link field (681d74f7-8585-475f-93ab-9d57dbf26098).
             */
             LogoLink: LinkField;
 
             /**
-            * Represents the NavigationLinks field (a8a06d9d-b646-473e-8fa7-48fe9d3423a1).
+            * Represents the Navigation Links field (a8a06d9d-b646-473e-8fa7-48fe9d3423a1).
             */
             NavigationLinks: Sitecore.Override.ItemEx[];
  
