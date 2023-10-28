@@ -64,4 +64,48 @@ export namespace CrossTraining.ContentBlock.Fields {
  }; 
 }
 
+export namespace CrossTraining.Navigation.Header.Fields {
+    export type Header = { 
+        fields?: { 
+            /**
+            * Represents the Logo field (73ce6680-4193-457b-9a90-d12684227e70).
+            */
+            Logo: ImageField;
+
+            /**
+            * Represents the LogoLink field (681d74f7-8585-475f-93ab-9d57dbf26098).
+            */
+            LogoLink: LinkField;
+
+            /**
+            * Represents the NavigationLinks field (a8a06d9d-b646-473e-8fa7-48fe9d3423a1).
+            */
+            NavigationLinks: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Navigation.Header.Fields {
+    export type NavigationLink = { 
+        fields?: { 
+            /**
+            * Represents the Link field (3b16d8f0-6433-4513-8647-5691d711ae08).
+            */
+            Link: LinkField;
+
+            /**
+            * Represents the SubNavigationLink field (863237e8-803a-4d07-9479-fb9e56140d45).
+            */
+            SubNavigationLink: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the Title field (5305493c-31d2-4d9e-bdc4-2d45b433f79d).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
 

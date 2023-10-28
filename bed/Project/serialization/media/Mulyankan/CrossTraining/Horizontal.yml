@@ -1,0 +1,57 @@
+﻿---
+ID: "f788fc61-5adf-43e7-84cd-24615ab71f51"
+Parent: "a3f0cf15-defe-4c8e-b559-199f9927eeb2"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Mulyankan/CrossTraining/Horizontal
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F788FC615ADF43E784CD24615AB71F51.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 120
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "a888e616-4ef5-4713-80cb-cb5552b031d8"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2218
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 120 x 61
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 61
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T104236Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d91b91d7-e287-426d-bedf-ced88fb2a505"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T104243Z

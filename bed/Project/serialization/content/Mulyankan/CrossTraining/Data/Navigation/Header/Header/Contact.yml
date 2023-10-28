@@ -1,0 +1,37 @@
+﻿---
+ID: "0fda142e-9831-4adc-8303-30c3cf1b95d5"
+Parent: "705eec1d-402d-49c9-9731-e98bdbec06ec"
+Template: "23021038-a951-4c84-88eb-bf7edf3400c3"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Navigation/Header/Header/Contact
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T104734Z
+    - ID: "3b16d8f0-6433-4513-8647-5691d711ae08"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{61931D39-7F00-42AB-B039-595B90DDFAD7}" />
+    - ID: "5305493c-31d2-4d9e-bdc4-2d45b433f79d"
+      Hint: Title
+      Value: Contact
+    - ID: "863237e8-803a-4d07-9479-fb9e56140d45"
+      Hint: SubNavigationLink
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cdde7047-a9b1-47c2-b468-45fd5017ec43"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T120012Z

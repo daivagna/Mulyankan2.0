@@ -1,12 +1,15 @@
 ﻿---
-ID: "64272a1e-52be-4a88-a297-f0690865bb35"
-Parent: "0ff6f745-90e9-44af-85b2-b169e1958d32"
-Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
-Path: /sitecore/media library/Project/Mulyankan/shared
+ID: "5305493c-31d2-4d9e-bdc4-2d45b433f79d"
+Parent: "814547f5-282b-400d-9b6d-b615e552be1a"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/CrossTraining/Navigation/Header/Navigation Link/Navigation/Title
 SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 200
+  Value: 100
 Languages:
 - Language: en
   Versions:
@@ -14,7 +17,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231018T103057Z
+      Value: 20231028T102457Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,11 +28,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "b78c772e-3f65-4bc6-814f-822aa4a7c4ac"
+      Value: "a9636c15-1382-4610-8ba6-21c06186774d"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T104127Z
+      Value: 20231028T102457Z
