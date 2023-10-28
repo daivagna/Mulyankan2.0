@@ -37,10 +37,10 @@ export const Default = (props: FooterProps): JSX.Element => {
         <div className="copyright bg-indigo-300">
           <div className="px-4 sm:px-8 lg:grid lg:grid-cols-1">
             <p className="pb-2 p-small statement text-center">
-              Copyright ©
-              <a href="#your-link" className="no-underline text-black">
-                {new Date().getFullYear()}
-              </a>
+              {props.fields.CopyRightText?.value.replace(
+                '{year}',
+                new Date().getFullYear().toString()
+              )}
             </p>
             <ul className="mb-4 list-unstyled p-small px-20 flex lg:grid-cols-2">
               <li className="mb-2 pr-2.5">
