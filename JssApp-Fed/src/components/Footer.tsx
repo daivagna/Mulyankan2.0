@@ -15,7 +15,7 @@ const FooterDefaultComponent = (): JSX.Element => (
 );
 
 export const Default = (props: FooterProps): JSX.Element => {
-  console.log(JSON.stringify(props.fields?.SocialIcon[0].fields.ClassName.value));
+  //console.log(JSON.stringify(props.fields?.SocialIcon[0].fields.ClassName.value));
   if (props.fields) {
     return (
       <>
