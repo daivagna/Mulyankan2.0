@@ -13,11 +13,21 @@ Languages:
       Value: 20231029T052306Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6a078088-f9c1-4a8c-836b-f395cbcc2c49"
+      Value: "7e10db79-a482-4d38-83bc-16f22c4ab843"
+    - ID: "969183ba-e849-4a01-a758-8645c7004f74"
+      Hint: Image
+      Value: |
+        <image mediaid="{97DDA05C-B743-425F-9C66-9ECB8F3CCBEE}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>We were so focused on launching as many campaigns as possible that we've forgotten to target our loyal customers</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: "Roy Smith - Developer"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T052306Z
+      Value: 20231029T063427Z

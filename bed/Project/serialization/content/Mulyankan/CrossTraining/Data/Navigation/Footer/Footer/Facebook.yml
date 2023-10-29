@@ -10,7 +10,7 @@ Languages:
     Fields:
     - ID: "14535228-46de-4017-849b-12dfc21ea5d1"
       Hint: ClassName
-      Value: "fab fa-facebook-f"
+      Value: "fa-facebook"
     - ID: "22935af9-ed95-4f2c-bbc9-97566b993f9d"
       Hint: Title
       Value: Facebook
@@ -31,11 +31,11 @@ Languages:
         <link linktype="external" url="https://www.google.com/" anchor="" target="" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2f1f237b-c8e7-4524-8815-29327f1b6805"
+      Value: "627789f4-97f8-449a-ad5d-fa585a919954"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T132649Z
+      Value: 20231029T100754Z

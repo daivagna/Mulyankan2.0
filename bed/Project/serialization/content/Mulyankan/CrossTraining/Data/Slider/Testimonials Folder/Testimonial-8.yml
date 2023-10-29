@@ -1,0 +1,33 @@
+﻿---
+ID: "f48dbb07-7cb8-420e-bbac-1b0feefd3681"
+Parent: "fe7fe4b5-0cee-4112-8dbf-3739c4a7a113"
+Template: "6ea6721e-b9fe-434d-8369-b96d568bc0bd"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Slider/Testimonials Folder/Testimonial-8"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T052306Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "95779f1b-3b42-4a0a-81e5-b6ea9a04fb04"
+    - ID: "969183ba-e849-4a01-a758-8645c7004f74"
+      Hint: Image
+      Value: |
+        <image mediaid="{4951C108-1BE2-4663-B4D1-2C2F668D12D0}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Searching for a great prototyping and layout design app was difficult but thankfully I found app suite quickly</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: "Lindsay Spice - Marketer"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T063603Z

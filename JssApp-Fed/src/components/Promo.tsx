@@ -35,7 +35,7 @@ export const Default = (props: PromoProps): JSX.Element => {
     return (
       <>
         <div className="relative overflow-hidden bg-white">
-          <div className="pb-80 pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
+          <div className="pb-[64px] pt-16 sm:pb-40 sm:pt-24 lg:pb-48 lg:pt-40">
             <div className="relative mx-auto max-w-7xl px-4 sm:static sm:px-6 lg:px-8">
               <div className="sm:max-w-lg">
                 <h1 className="text-1xl font-bold tracking-tight text-gray-900 sm:text-6xl">
@@ -50,13 +50,13 @@ export const Default = (props: PromoProps): JSX.Element => {
                     aria-hidden="true"
                     className="pointer-events-none lg:absolute lg:inset-y-0 lg:mx-auto lg:w-full lg:max-w-7xl"
                   >
-                    <div className="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
+                    <div className="lg:absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">
                       <JssImage field={props.fields.PromoIcon} />
                     </div>
                   </div>
 
                   <Link
-                    className="inline-block rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700"
+                    className="block md:inline-block mt-[30px] rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700"
                     href={props.fields.PromoLink.value.href as string}
                   >
                     {props.fields.PromoLink.value.text}
@@ -67,24 +67,40 @@ export const Default = (props: PromoProps): JSX.Element => {
           </div>
         </div>
       </>
-      // <div className={`component promo ${props.params.styles}`} id={id ? id : undefined}>
-      //   <div className="text-sm component-content">
-      //     <div className="field-promoicon">
-      //       <h1 className="text-3xl font-bold underline">testing</h1>
-      //       <JssImage field={props.fields.PromoIcon} />
-      //     </div>
-      //     <div className="promo-text">
-      //       <div>
-      //         <div className="field-promotext">
-      //           <JssRichText className="text-sm bg-red-500" field={props.fields.PromoText} />
-      //         </div>
-      //       </div>
-      //       <div className="field-promolink">
-      //         <JssLink field={props.fields.PromoLink} />
-      //       </div>
-      //     </div>
-      //   </div>
-      // </div>
+    );
+  }
+
+  return <PromoDefaultComponent {...props} />;
+};
+
+export const RightImage = (props: PromoProps): JSX.Element => {
+  if (props.fields) {
+    return (
+      <>
+        <div className="px-4 sm:px-8 pb-[64px] lg:pb-[80px] lg:grid lg:grid-cols-12 lg:gap-x-12 container mx-auto">
+          <div className="lg:col-span-7">
+            <div className="mb-12 lg:mb-0 xl:mr-14">
+              <JssImage field={props.fields.PromoIcon} />
+            </div>
+          </div>
+          <div className="lg:col-span-5">
+            <div className="xl:mt-12">
+              <div className="sm:max-w-lg">
+                <h1 className="text-1xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+                  {props.fields.PromoText2.value}
+                </h1>
+                <p className="mt-4 text-xl text-gray-500">{props.fields.PromoText.value}</p>
+              </div>
+              <Link
+                className="block md:inline-block  mt-[30px] rounded-md border border-transparent bg-indigo-600 px-8 py-3 text-center font-medium text-white hover:bg-indigo-700"
+                href={props.fields.PromoLink.value.href as string}
+              >
+                {props.fields.PromoLink.value.text}
+              </Link>
+            </div>
+          </div>
+        </div>
+      </>
     );
   }
 

@@ -167,6 +167,35 @@ export namespace CrossTraining.Navigation.Header.Fields {
  }; 
 }
 
+export namespace CrossTraining.Iframe.Fields {
+    export type Iframe = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the IframeUrl field (27db2356-0476-422f-9b38-e88bc22a64c8).
+            */
+            IframeUrl: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.TeamListing.Fields {
+    export type Member = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.TeamListing.Fields {
+    export type MembersList = { 
+        fields?: {  
+        }
+ }; 
+}
+
 export namespace CrossTraining.Navigation.Header.Fields {
     export type NavigationLink = { 
         fields?: { 
@@ -279,21 +308,6 @@ export namespace CrossTraining.Slider.Fields {
 export namespace CrossTraining.Slider.Fields {
     export type TestimonialsFolder = { 
         fields?: {  
-        }
- }; 
-}
-
-export namespace CrossTraining.Video.Fields {
-    export type Video = 
-            CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.HeadlineTag & 
-            CrossTraining.Base.Fields.Description & { 
-        fields?: { 
-            /**
-            * Represents the VideoUrl field (27db2356-0476-422f-9b38-e88bc22a64c8).
-            */
-            VideoUrl: Field<string>;
- 
         }
  }; 
 }

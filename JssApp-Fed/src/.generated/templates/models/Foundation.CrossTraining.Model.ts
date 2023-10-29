@@ -16,31 +16,12 @@ import { DefaultComponentProps } from '@/lib/component-props';
 
 
 export namespace CrossTraining.Base.Fields {
-    export type Variant = { 
-        fields?: {  
-        }
- }; 
-}
-
-export namespace CrossTraining.Base.Fields {
     export type Description = { 
         fields?: { 
             /**
             * Represents the Description field (bcdcf1f2-ac93-41b4-bc96-7f44f97867e4).
             */
             BodyCopy: Field<string>;
- 
-        }
- }; 
-}
-
-export namespace CrossTraining.Base.Fields {
-    export type HeadingTagList = { 
-        fields?: { 
-            /**
-            * Represents the Heading Tag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
-            */
-            HeadingTag: Field<string>;
  
         }
  }; 
@@ -87,6 +68,30 @@ export namespace CrossTraining.Base.Fields {
             * Represents the Title field (22935af9-ed95-4f2c-bbc9-97566b993f9d).
             */
             Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type List = { 
+        fields?: { 
+            /**
+            * Represents the List Name field (aa07375a-0ff6-49b9-be48-981a757b32e2).
+            */
+            ListName: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type Variant = { 
+        fields?: { 
+            /**
+            * Represents the VariantList field (5f170d35-f7cb-4af5-b199-279550ac4558).
+            */
+            VariantList: Field<string>;
  
         }
  }; 

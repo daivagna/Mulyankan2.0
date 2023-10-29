@@ -1,0 +1,26 @@
+﻿---
+ID: "3acc58ce-c2c9-49c9-962a-d57010b2be04"
+Parent: "13060c4d-cfb7-4ff4-9e3e-645af949fe99"
+Template: "019dcf56-7563-4354-917f-ccfb7c305716"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Content Block/About Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T071440Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "71c3a981-a2eb-4a5b-a247-e9c78329ca32"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: We create digital experiences that strengthen relationships
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T071447Z
