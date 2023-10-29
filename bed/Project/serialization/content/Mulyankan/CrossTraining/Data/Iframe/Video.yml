@@ -12,21 +12,21 @@ Languages:
       Hint: __Created
       Value: 20231029T044550Z
     - ID: "27db2356-0476-422f-9b38-e88bc22a64c8"
-      Hint: VideoUrl
-      Value: "https://www.youtube.com/watch?v=URwyb1savZ8"
+      Hint: IframeUrl
+      Value: "https://www.youtube.com/embed/sG-bIe4EWg0?si=wVkaGvxClXwhyTqH"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ab997fc3-ca9a-4f64-ba6f-2f4a1d31ae79"
+      Value: "82d8c193-334e-4d67-997a-b82aad277e5b"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
       Hint: Heading
-      Value: Horizontal Digital
+      Value: We Are In Global Events
     - ID: "ca30ce0a-5de3-4763-b5e4-c1f27912dccf"
       Hint: Tag
       Value: h2
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T045612Z
+      Value: 20231029T100014Z

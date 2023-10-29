@@ -1,12 +1,18 @@
 ﻿---
-ID: "5f50dbab-1924-4193-84a9-de5cb61d5cfb"
-Parent: "adb5e659-694a-4e42-8e4b-b377e1d53ee7"
-Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/Mulyankan/CrossTraining/Data/Skills
+ID: "49536754-5542-456c-b90a-e1eea40d8d13"
+Parent: "359a996e-1640-4ade-8fcc-c8ef0d356758"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Mulyankan/CrossTraining/Generic Page/Content/Content
 SharedFields:
-- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
-  Hint: __Masters
-  Value: "{C7C6E9F1-4E80-4B05-A85B-4DAB224301AF}"
+- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
+  Hint: Source
+  Value: "query:$xaRichTextProfile"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1
 Languages:
 - Language: en
   Versions:
@@ -14,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231029T084937Z
+      Value: 20231018T103059Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -25,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1afc4bd0-7bd9-4152-9e90-e75637925df0"
+      Value: "a99d9872-3b5e-4569-acc7-b5458e77dfab"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T084958Z
+      Value: 20231018T103059Z
