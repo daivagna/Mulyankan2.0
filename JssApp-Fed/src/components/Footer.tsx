@@ -42,11 +42,6 @@ export const Default = (props: FooterProps): JSX.Element => {
         </div>
         <div className="copyright bg-cyan-100">
           <div className="px-4 sm:px-8 lg:grid lg:grid-cols-1">
-            <p className="pb-2 p-small statement text-center font-normal">
-              Copyright ©
-              <a href="#your-link" className="no-underline text-black font-normal">
-                {new Date().getFullYear()}
-              </a>
             <p className="pb-2 p-small statement text-center">
               {props.fields.CopyRightText?.value.replace(
                 '{year}',
