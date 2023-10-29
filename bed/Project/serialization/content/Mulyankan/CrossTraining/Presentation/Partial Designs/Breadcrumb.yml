@@ -1,8 +1,12 @@
 ﻿---
-ID: "92ac9f40-eab4-4f0f-8539-dabbdb607664"
-Parent: "ed377fc3-4e49-42fd-acd0-8ca0675bd2d7"
-Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Foundation/CrossTraining/Base/_Skills/Skills
+ID: "238b7a54-1548-4bc6-8304-80291b0f199d"
+Parent: "192e517b-7860-445a-a316-715e21d9ca93"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/Mulyankan/CrossTraining/Presentation/Partial Designs/Breadcrumb
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: breadcrumb
 Languages:
 - Language: en
   Versions:
@@ -10,22 +14,18 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231029T084426Z
-    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
-      Hint: __Owner
-      Value: |
-        sitecore\Admin
+      Value: 20231029T092338Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "896db06b-1d26-4dde-8842-ea2d529c4434"
+      Value: "6522bf93-e1c4-494a-8d44-518cacc0d8b5"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T085251Z
+      Value: 20231029T092406Z
