@@ -1,0 +1,26 @@
+﻿---
+ID: "bd82929c-e4ae-4e4c-912e-f66550cfa7d2"
+Parent: "a24d98d9-893d-4aca-b6d5-8b0cf6a11d84"
+Template: "c7c6e9f1-4e80-4b05-a85b-4dab224301af"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Skills/NextJS
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T101653Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9003fb24-c235-4c3a-a020-f924342efd4f"
+    - ID: "aa07375a-0ff6-49b9-be48-981a757b32e2"
+      Hint: ListName
+      Value: NextJS
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T101711Z

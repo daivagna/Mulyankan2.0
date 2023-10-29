@@ -1,8 +1,12 @@
 ﻿---
-ID: "8e5d25d6-7b77-4a7e-be8b-a805df900acb"
-Parent: "bcfcd14e-b047-4954-9014-96eac125bfcd"
+ID: "cb2c57c2-5460-41d9-b982-7db46eb162da"
+Parent: "705eec1d-402d-49c9-9731-e98bdbec06ec"
 Template: "23021038-a951-4c84-88eb-bf7edf3400c3"
-Path: /sitecore/content/Mulyankan/CrossTraining/Data/Navigation/Header/Header/Service/Service 2
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Navigation/Header/Header/Home
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 900
 Languages:
 - Language: en
   Versions:
@@ -10,24 +14,24 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T113617Z
+      Value: 20231028T104458Z
     - ID: "3b16d8f0-6433-4513-8647-5691d711ae08"
       Hint: Link
       Value: |
-        <link linktype="external" url="https://www.horizontaldigital.com/" />
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
     - ID: "5305493c-31d2-4d9e-bdc4-2d45b433f79d"
       Hint: Title
-      Value: Service 2
+      Value: Home
     - ID: "863237e8-803a-4d07-9479-fb9e56140d45"
       Hint: SubNavigationLink
       Value: 
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d48f0c6c-d61e-4dcf-b34d-85ebf0c53e71"
+      Value: "858122a9-cd11-4785-9582-4d10b0fc08e3"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T120001Z
+      Value: 20231029T104343Z
