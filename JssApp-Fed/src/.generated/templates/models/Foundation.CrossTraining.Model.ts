@@ -16,6 +16,13 @@ import { DefaultComponentProps } from '@/lib/component-props';
 
 
 export namespace CrossTraining.Base.Fields {
+    export type Variant = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
     export type Description = { 
         fields?: { 
             /**

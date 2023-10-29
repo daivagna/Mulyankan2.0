@@ -27,7 +27,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d444902c-86b5-4364-ab7d-eb8168496fff"
+      Value: "d9394de9-6ae0-4e6d-8709-26ec8f233585"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -37,7 +37,7 @@ Languages:
       Value: this is another sample text
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231026T115937Z
+      Value: 20231029T052647Z
     - ID: "ef24bed2-46ab-4d53-ad1a-1019935a4e89"
       Hint: PromoLink
       Value: |
@@ -45,4 +45,4 @@ Languages:
     - ID: "f94b9858-c439-4291-863b-757b536c8b65"
       Hint: PromoIcon
       Value: |
-        <image mediaid="{42045852-4888-42F2-9126-317E2CEA07A6}" />
+        <image mediaid="{5B0E2A12-FF53-452C-94FE-1562D82AB0EF}" />
