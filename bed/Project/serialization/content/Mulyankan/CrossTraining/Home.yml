@@ -29,11 +29,51 @@ SharedFields:
           s:ph="headless-main"
           s:ccb="Clear on publish" />
         <r
-          uid="{CFE0E928-30D9-453C-B2EC-B17B9C1D5431}"
-          p:after="*[1=2]"
+          uid="{C9033944-8DC2-4381-9E85-40C76087BE73}"
+          p:after="r[@uid='{DA3FD963-4F94-47E6-815E-1CC97D3AA0C9}']"
+          s:ds="{0C419670-18E3-4CAE-8D82-E6203908503D}"
+          s:id="{41FE70F2-23C8-439B-8084-19F660035DF0}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1A4C9D85-B452-460D-99D7-0D76A0012D1E}"
+          p:after="r[@uid='{C9033944-8DC2-4381-9E85-40C76087BE73}']"
+          s:ds="{804E01E3-5345-4B11-9589-755FCAD79475}"
+          s:id="{3C90578C-A3F8-4D0E-BD70-3DD636A5FE37}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{026A8F95-D1C5-4652-94C6-B02D6034B8D4}"
+          p:after="r[@uid='{1A4C9D85-B452-460D-99D7-0D76A0012D1E}']"
+          s:ds="{0C5D5061-B6F4-44BB-824C-6020D246F9A8}"
+          s:id="{7B6FEB22-5125-4AF8-A9FE-CE541EF99E7F}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{C1DA839E-E37A-4224-B655-37D552CDA573}"
+          p:after="r[@uid='{026A8F95-D1C5-4652-94C6-B02D6034B8D4}']"
+          s:ds="{6E6738AA-9C73-470D-AFD8-69547E1266B3}"
+          s:id="{CBAE3985-EAC0-4B80-A5FB-5879B5ADE931}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D1F2EB15-6FF5-48DD-9836-92E8EC622F8B}"
+          p:after="r[@uid='{C1DA839E-E37A-4224-B655-37D552CDA573}']"
           s:ds="{3FECF040-6D71-46B2-B019-8A31DD3C8633}"
           s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
-          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;GridParameters&amp;DynamicPlaceholderId=1"
+          s:par="FieldNames=%7b29E9CC37-EAE5-465B-AF2C-8B86A4614FFE%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;GridParameters&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{FE42F6CA-6243-4EA9-9AF0-899D9C505A15}"
+          p:after="*[1=2]"
+          s:ds="{00BA4B0B-F80B-4186-ACF2-D0AE8132C23C}"
+          s:id="{2492BAC4-DA07-4C86-87F0-9873D40E2276}"
+          s:par="FieldNames=%7b67323A8A-CF6C-48B6-8552-0375EE550F78%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;Styles&amp;GridParameters&amp;DynamicPlaceholderId=3"
           s:ph="headless-main"
           s:ccb="Clear on publish" />
       </d>
@@ -62,7 +102,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "a276ae9a-662d-4a00-bfb9-3fc76d7322e9"
+      Value: "03fbdac8-c84d-42d5-9c85-949badd94929"
     - ID: "9de29a57-9fb6-4d64-bb6e-22b74cf67485"
       Hint: Title
       Value: CrossTraining
@@ -72,4 +112,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T092829Z
+      Value: 20231029T090229Z

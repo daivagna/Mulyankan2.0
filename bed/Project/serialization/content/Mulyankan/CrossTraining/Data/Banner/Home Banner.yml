@@ -23,7 +23,7 @@ Languages:
       Value: Primary CTA
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c1a33b43-5c3b-4944-9526-345ee6cca38c"
+      Value: "8cf5c21c-3b3c-4614-bc2c-ff517b362db8"
     - ID: "9b9a2fa5-59fb-48f5-addc-cd87cf477170"
       Hint: SecondaryCTA
       Value: |
@@ -33,15 +33,15 @@ Languages:
       Value: |
         sitecore\Admin
     - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
-      Hint: Description
-      Value: <p>Start getting things done together with your team based on Pavo's revolutionary team management features.</p>
+      Hint: BodyCopy
+      Value: <p>Here is our team, We have 50 years of experience combined and servicing clients from many years, check out their profiles to know what clients have to say about them.</p>
     - ID: "bcefbad7-0013-4e00-ae9f-e14beba2ff61"
       Hint: Image
       Value: |
-        <image mediaid="{DFE5F108-D654-4418-BC8C-48BB317B209C}" />
+        <image mediaid="{444A2141-9C38-4C18-B74F-D74F4134BA3C}" />
     - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
-      Hint: Headline
-      Value: Team management mobile application
+      Hint: Heading
+      Value: Meet Our Team
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T092304Z
+      Value: 20231029T090142Z

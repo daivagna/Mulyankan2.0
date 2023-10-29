@@ -1,0 +1,48 @@
+﻿---
+ID: "1884ca22-6c5d-467f-a453-c27e6a4a8c34"
+Parent: "c4ec7466-6aec-4942-822b-1916c9c08eb3"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Mulyankan/CrossTraining/Cards/features-icon-1"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1884CA226C5D467FA453C27E6A4A8C34.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d82891e3-f2cf-42c0-b596-70fe29b31c1d"
+  Value: PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2OC43MjggNTIuMDgzIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzU5NGNkYTt9LmNscy0ye2ZpbGw6I2ViNDI3ZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmZlYXR1cmVzLWljb24tMTwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMy40LDBINjUuMkEzLjIsMy4yLDAsMCwxLDY4LjYzLDIuODk0djQ2LjNBMy4yLDMuMiwwLDAsMSw2NS4yLDUyLjA4M0gxMC44NTRjLTEuOSwwLTEwLjg5Mi03LjI3My0xMC44OTItOC44NzFWMi44OTRBMy4yLDMuMiwwLDAsMSwzLjQsMFpNMzQuNSwyNS4xMjRMMTIuNDg3LDkuMzY5LDguMDQsMTMuNzc5LDM0LjU0NiwzMi43NDYsNjAuNTc1LDEzLjc2NCw1Ni4wODQsOS4zODcsMzQuNTA1LDI1LjEyNGgwWiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wOTkpIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNMjcuMzEyLDMxLjIzOGMtNS43MTIsMC0xMC44MjYsMy4wNzktMTIuODM0LDcuNzI4bDMuMjEsMS4wNDdjMi00LjYxOSw3LjkzLTYuOTUzLDEzLjI0My01LjIxNCw0LDEuMzEsNi42NTIsNC42MzUsNi42NTcsOC4zNTEsMCw0LjkzNC00LjYsOC45MzQtMTAuMjc2LDguOTM0SDEwLjE4NGMtNS42NzYsMC0xMC4yNzktMy45OTQtMTAuMjgzLTguOTI4LDAtMy43OTUsMi43NTMtNy4xNzcsNi44NzEtOC40MzRDNi40NDUsMjguOTcyLDExLjU0LDI0LjA4LDE4LjE1MywyMy43OTVjNS42NTEtLjI0NCwxMC43MjksMi45ODEsMTIuMTgxLDcuNzM1QTE1LjczMiwxNS43MzIsMCwwLDAsMjcuMzEyLDMxLjIzOFoiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDk5KSIvPjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 886
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T054633Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2d423278-5ec8-4d55-aa9d-6ff02a5da101"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T054633Z

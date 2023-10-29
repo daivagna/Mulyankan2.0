@@ -16,6 +16,23 @@ import { DefaultComponentProps } from '@/lib/component-props';
 
 
 export namespace CrossTraining.Base.Fields {
+    export type List = { 
+        fields?: { 
+            /**
+            * Represents the Heading Tag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
+            */
+            HeadingTag: Field<string>;
+
+            /**
+            * Represents the Rating field (0da0dae9-f47f-4577-9b75-1cee47fbb40b).
+            */
+            Rating: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
     export type Description = { 
         fields?: { 
             /**
@@ -34,6 +51,64 @@ export namespace CrossTraining.Base.Fields {
             * Represents the Heading field (c177f5c1-03e4-4eaa-812e-64818088203f).
             */
             Heading: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type HeadlineTag = { 
+        fields?: { 
+            /**
+            * Represents the Tag field (ca30ce0a-5de3-4763-b5e4-c1f27912dccf).
+            */
+            Tag: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type Icon = { 
+        fields?: { 
+            /**
+            * Represents the ClassName field (14535228-46de-4017-849b-12dfc21ea5d1).
+            */
+            ClassName: Field<string>;
+
+            /**
+            * Represents the Link field (69bb00b0-9a4c-4956-af22-e332e0051f8e).
+            */
+            Link: LinkField;
+
+            /**
+            * Represents the Title field (22935af9-ed95-4f2c-bbc9-97566b993f9d).
+            */
+            Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type Skills = { 
+        fields?: { 
+            /**
+            * Represents the SkillsList field (7af288c1-bfda-4311-b8ae-a5b7c4e0ce4e).
+            */
+            SkillsList: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type Variant = { 
+        fields?: { 
+            /**
+            * Represents the VariantList field (5f170d35-f7cb-4af5-b199-279550ac4558).
+            */
+            VariantList: Field<string>;
  
         }
  }; 

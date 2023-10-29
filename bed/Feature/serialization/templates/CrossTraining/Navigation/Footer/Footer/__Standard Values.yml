@@ -1,0 +1,56 @@
+﻿---
+ID: "c4e6f82e-36b8-409a-a4cd-4186bed23b79"
+Parent: "8a296a41-313b-4413-8b5b-921ddf2494e6"
+Template: "8a296a41-313b-4413-8b5b-921ddf2494e6"
+Path: /sitecore/templates/Feature/CrossTraining/Navigation/Footer/Footer/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T123235Z
+    - ID: "31585ef3-d311-4f70-bbc6-11985049b41a"
+      Hint: TermsAndConditionLink
+      Value: |
+        <link linktype="internal" />
+    - ID: "42083723-db92-49e7-8a9b-163331515b21"
+      Hint: SocialIcon
+      Value: |
+        {1AB663A2-EFED-405E-B9B4-DF695A7E0983}
+        {8968CE6F-166F-4392-865D-10EDC22E2301}
+        {509891FC-633D-480C-A236-BE9794827D05}
+        {FC1102BF-FD3D-47F1-A954-3E1865380261}
+        {B043B455-2E54-40AC-97C7-EB26BED4D209}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5f66a9b7-51cc-4b46-b3f7-4ed5a06c38d1"
+      Hint: CopyRightText
+      Value: "Copyright © Horizontal {year}"
+    - ID: "6fc007ad-c85d-4422-80b1-9c14fd1c99e3"
+      Hint: TermsAndConditionTitle
+      Value: Terms & Conditions
+    - ID: "73aa3ab2-502a-44ea-a650-930c5adbf525"
+      Hint: PrivarcyPolicyTitle
+      Value: Privacy Policy
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0f400156-bf6c-40c1-9ca5-116d590da5ec"
+    - ID: "b4d733a3-54e3-4f9c-8934-41a142079b41"
+      Hint: PrivarcyPolicyLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{61931D39-7F00-42AB-B039-595B90DDFAD7}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T133159Z

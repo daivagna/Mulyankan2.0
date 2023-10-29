@@ -1,0 +1,33 @@
+﻿---
+ID: "c1e3489e-4d5c-427d-8ffc-a0862a44aded"
+Parent: "6b4b0f39-4b1b-44e2-bb45-afbc074a7ea7"
+Template: "6f099d84-b313-4a59-abed-64522507809f"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Card Grid/Cards Folder/Card-6"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T132136Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fbc0b8b7-d0db-4cca-a1ab-3031da95d433"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Not only our employee will attend all meetings, but we will do weekly audit with them and our clients to make sure they do not have any complaints and show is running smoothly</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Weekly Audit
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T061144Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{145637CD-C117-42E4-BA9D-E4C01A19664D}" />

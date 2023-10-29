@@ -1,0 +1,33 @@
+﻿---
+ID: "00d4586c-5b73-4694-b4b5-570656f2cceb"
+Parent: "6b4b0f39-4b1b-44e2-bb45-afbc074a7ea7"
+Template: "6f099d84-b313-4a59-abed-64522507809f"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Card Grid/Cards Folder/Card-4"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T132136Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38ff3d88-3bd0-4d91-87f9-000307e1c152"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Clearly, Charge of a single full stack resource will reduce the cost by 50% instead of having two people for backend and for the frontend.</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Reduced Cost
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T060945Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{A5B249A3-2839-4DD1-BB4D-70ACE4E3B5E3}" />

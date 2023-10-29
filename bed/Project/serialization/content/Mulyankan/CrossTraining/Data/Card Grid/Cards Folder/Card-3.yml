@@ -1,0 +1,33 @@
+﻿---
+ID: "c41c9934-307f-4249-b5b4-77da2ce45739"
+Parent: "6b4b0f39-4b1b-44e2-bb45-afbc074a7ea7"
+Template: "6f099d84-b313-4a59-abed-64522507809f"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Card Grid/Cards Folder/Card-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T132129Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5284f50-31f9-4d03-856b-5145f9b06e74"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Because we have certified JSS and Composable technology team, We make sure that performance is the center of any project that we work on</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Great Performance
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T060917Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{B87561CD-E849-41C6-ADFC-48048318728F}" />
