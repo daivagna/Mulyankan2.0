@@ -40,6 +40,18 @@ export namespace CrossTraining.Base.Fields {
 }
 
 export namespace CrossTraining.Base.Fields {
+    export type HeadlineTag = { 
+        fields?: { 
+            /**
+            * Represents the Tag field (ca30ce0a-5de3-4763-b5e4-c1f27912dccf).
+            */
+            Tag: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
     export type Icon = { 
         fields?: { 
             /**

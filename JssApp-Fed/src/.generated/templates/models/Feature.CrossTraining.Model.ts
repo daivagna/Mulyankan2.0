@@ -243,20 +243,11 @@ export namespace CrossTraining.Tab.Fields {
 export namespace CrossTraining.VideoComponent.Fields {
     export type VideoComponent = 
             CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
             CrossTraining.Base.Fields.Description & { 
         fields?: { 
             /**
-            * Represents the headingTag field (e0a4a613-4b3e-4502-8dac-76edbc9b6d71).
-            */
-            headingTag: Field<string>;
-
-            /**
-            * Represents the VideoIframe field (520bd613-53f2-4cca-93b2-1a361d2dce9b).
-            */
-            VideoIframe: Field<string>;
-
-            /**
-            * Represents the VideoUrl field (dd0c952f-e1e7-4fa1-9059-85ff7ecc990e).
+            * Represents the VideoUrl field (27db2356-0476-422f-9b38-e88bc22a64c8).
             */
             VideoUrl: Field<string>;
  
