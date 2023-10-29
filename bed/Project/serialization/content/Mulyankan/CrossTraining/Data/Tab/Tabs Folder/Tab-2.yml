@@ -1,0 +1,40 @@
+﻿---
+ID: "01187a00-7af3-4a67-9fc0-58f28cbc4d13"
+Parent: "a3fbad77-b164-4dc1-bf10-28c20b07274b"
+Template: "90f09164-196c-49e6-957c-fa402d4ca3cb"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Tab/Tabs Folder/Tab-2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16566a71-60d1-4e9c-a716-ed73b0f46eb8"
+      Hint: Skills
+      Value: <p>Add your skills here</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T145648Z
+    - ID: "468f5211-913d-4c34-b005-de0aacc7eacf"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{61931D39-7F00-42AB-B039-595B90DDFAD7}" />
+    - ID: "60626f7c-e081-4b3f-b4fb-e74be3fb9320"
+      Hint: Image
+      Value: |
+        <image mediaid="{B2896923-A36C-473E-8C6A-DC06CFD928DC}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "804ec88a-8614-4ab5-8868-28c30238582f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c4fd37d6-cf25-4807-b92c-fed75255d35f"
+      Hint: Role
+      Value: Add job role here
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T150229Z
+    - ID: "e6a08e5a-e3ce-4eb0-baca-4e7089f017f1"
+      Hint: AdditionalInfo
+      Value: <p>Add additional info here</p>

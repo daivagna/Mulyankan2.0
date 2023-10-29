@@ -28,12 +28,36 @@ export namespace CrossTraining.Base.Fields {
 }
 
 export namespace CrossTraining.Base.Fields {
+    export type HeadingTagList = { 
+        fields?: { 
+            /**
+            * Represents the Heading Tag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
+            */
+            HeadingTag: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
     export type Headline = { 
         fields?: { 
             /**
             * Represents the Heading field (c177f5c1-03e4-4eaa-812e-64818088203f).
             */
             Heading: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type HeadlineTag = { 
+        fields?: { 
+            /**
+            * Represents the Tag field (ca30ce0a-5de3-4763-b5e4-c1f27912dccf).
+            */
+            Tag: Field<string>;
  
         }
  }; 

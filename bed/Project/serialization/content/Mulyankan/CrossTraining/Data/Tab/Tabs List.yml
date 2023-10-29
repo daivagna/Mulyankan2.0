@@ -1,0 +1,29 @@
+﻿---
+ID: "804e01e3-5345-4b11-9589-755fcad79475"
+Parent: "db06e59c-b853-4584-b838-33bf9f7d1472"
+Template: "51cb1373-2de5-4715-84c3-908f1fd18ac5"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Tab/Tabs List
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T145823Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d97a38f3-dae6-44b0-8a31-c0a2dfa4de8e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231028T145855Z
+    - ID: "e648cbda-67a6-4ee8-b3b1-ebce3f5dc779"
+      Hint: Tabs
+      Value: |
+        {01187A00-7AF3-4A67-9FC0-58F28CBC4D13}
+        {D97C8C55-C275-42FB-A7BC-65E5CEB948CB}
+        {FE8B8B27-8E34-46A3-A2C4-2151ADA35A7C}

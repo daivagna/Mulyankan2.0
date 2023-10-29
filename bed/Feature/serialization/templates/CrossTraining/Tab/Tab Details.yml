@@ -1,12 +1,12 @@
 ﻿---
-ID: "6f099d84-b313-4a59-abed-64522507809f"
-Parent: "f0e6c9fd-4afc-4373-aa93-32acf315c34c"
+ID: "90f09164-196c-49e6-957c-fa402d4ca3cb"
+Parent: "89635fe8-63bc-464a-aac4-88a6c93dbab4"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/CrossTraining/Card Grid/Card
+Path: /sitecore/templates/Feature/CrossTraining/Tab/Tab Details
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Applications/32x32/disk_blue.png
+  Value: Applications/32x32/folder2_yellow.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: |
@@ -16,7 +16,7 @@ SharedFields:
     {94DFD8C3-B9B6-4D47-9933-0FD00647135E}
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{03CA0CB7-5CEA-4334-AD51-A53C783D6060}"
+  Value: "{8C8FC2F5-B0AD-4AA0-B68D-B9C959E4135F}"
 Languages:
 - Language: en
   Versions:
@@ -24,7 +24,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T122939Z
+      Value: 20231028T143737Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +35,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2d640a40-17c1-4c95-80b7-6d29e3d80c6d"
+      Value: "d5e18580-1ab3-4678-860e-922b3f285629"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T050120Z
+      Value: 20231029T050257Z

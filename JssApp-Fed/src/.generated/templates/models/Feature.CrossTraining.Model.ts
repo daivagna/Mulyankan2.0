@@ -19,7 +19,8 @@ import { DefaultComponentProps } from '@/lib/component-props';
 export namespace CrossTraining.Banner.Fields {
     export type Banner = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Background Color field (eaccab0a-4a50-44cf-8b9d-d9758ecefaea).
@@ -58,7 +59,8 @@ export namespace CrossTraining.Banner.Fields {
 export namespace CrossTraining.CardGrid.Fields {
     export type Card = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Card Image field (fa5330b6-1854-4649-8ffc-d3f2b27c4c8a).
@@ -72,7 +74,8 @@ export namespace CrossTraining.CardGrid.Fields {
 export namespace CrossTraining.CardGrid.Fields {
     export type CardGrid = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Cards field (f7872135-6bbd-4f08-a57e-0834be2627b0).
@@ -93,7 +96,8 @@ export namespace CrossTraining.CardGrid.Fields {
 export namespace CrossTraining.ContentBlock.Fields {
     export type ContentBlock = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: {  
         }
  }; 
@@ -180,6 +184,85 @@ export namespace CrossTraining.Navigation.Header.Fields {
             * Represents the Title field (5305493c-31d2-4d9e-bdc4-2d45b433f79d).
             */
             Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Slider.Fields {
+    export type Slider = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Tab.Fields {
+    export type TabDetails = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
+        fields?: { 
+            /**
+            * Represents the AdditionalInfo field (e6a08e5a-e3ce-4eb0-baca-4e7089f017f1).
+            */
+            AdditionalInfo: Field<string>;
+
+            /**
+            * Represents the Image field (60626f7c-e081-4b3f-b4fb-e74be3fb9320).
+            */
+            Image: ImageField;
+
+            /**
+            * Represents the Link field (468f5211-913d-4c34-b005-de0aacc7eacf).
+            */
+            Link: LinkField;
+
+            /**
+            * Represents the Role field (c4fd37d6-cf25-4807-b92c-fed75255d35f).
+            */
+            Role: Field<string>;
+
+            /**
+            * Represents the Skills field (16566a71-60d1-4e9c-a716-ed73b0f46eb8).
+            */
+            Skills: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Tab.Fields {
+    export type TabsFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Tab.Fields {
+    export type TabsList = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
+        fields?: { 
+            /**
+            * Represents the Tabs field (e648cbda-67a6-4ee8-b3b1-ebce3f5dc779).
+            */
+            Tabs: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Video.Fields {
+    export type Video = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the VideoUrl field (27db2356-0476-422f-9b38-e88bc22a64c8).
+            */
+            VideoUrl: Field<string>;
  
         }
  }; 
