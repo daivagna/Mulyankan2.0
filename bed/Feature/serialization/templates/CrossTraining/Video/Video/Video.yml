@@ -1,19 +1,12 @@
 ﻿---
-ID: "c1b3aa73-34a9-40cd-ad43-adcb622ee0bd"
-Parent: "2694f117-1d0a-423b-a435-b5b5ec1ce952"
-Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Feature/CrossTraining/Slider/Slider
+ID: "abcc68ee-3011-4380-924d-1443e328c4a9"
+Parent: "c8d746bc-b833-457a-86fb-76b3daee22ac"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/CrossTraining/Video/Video/Video
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Applications/32x32/bookmarks.png
-- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
-  Hint: __Base template
-  Value: |
-    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
-    {D3AF2197-EDD5-43A1-B4F6-1B8B28407C0B}
-    {94DFD8C3-B9B6-4D47-9933-0FD00647135E}
-    {B505D7BB-A40F-451A-B2BB-A4781E7838DC}
+  Value: applications/32x32/media_play_green.png
 Languages:
 - Language: en
   Versions:
@@ -21,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231029T044750Z
+      Value: 20231028T144735Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -32,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "edfbcba3-af13-4516-a4c7-28520bad52bb"
+      Value: "62e009d4-5ec5-496b-a322-d0a3856e361a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T051924Z
+      Value: 20231028T150342Z
