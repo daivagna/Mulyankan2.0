@@ -1,0 +1,29 @@
+﻿---
+ID: "fdef8533-85c3-4642-808a-28cb08105278"
+Parent: "13060c4d-cfb7-4ff4-9e3e-645af949fe99"
+Template: "019dcf56-7563-4354-917f-ccfb7c305716"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Content Block/404 Content Block
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T071440Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "85ff7454-7f4b-44df-b51d-d8f4203f3491"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: "<strong>Oops !!! Something went wrong, It seems you are looking for the page that does not exists, It could be due to typo or page does not exists yet.</strong>"
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: You've reached a page thet does not exist
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T071616Z

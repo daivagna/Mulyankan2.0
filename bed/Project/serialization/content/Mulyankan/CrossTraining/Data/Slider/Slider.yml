@@ -11,7 +11,9 @@ Languages:
     - ID: "023962d9-1364-44ac-a3a8-30bef0eb88f7"
       Hint: SliderCards
       Value: |
+        {E1CFC79A-1C03-46C3-99E8-6F93FCB250F1}
         {B48301FC-A250-44D7-B04B-E265C58C0B75}
+        {4FB1F984-3630-457F-A671-D765487FF3F9}
         {49250B27-203A-466F-A414-9E2F29F2BE31}
         {E7A04A31-AC6C-4B44-81F3-2524404B1B3F}
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
@@ -19,11 +21,14 @@ Languages:
       Value: 20231029T052453Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "cb4f9be3-076b-41d0-96a1-a28708b90940"
+      Value: "1ae52bf3-c187-4583-b73f-6644cf060695"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: What do users think about Pavo
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T052525Z
+      Value: 20231029T063648Z

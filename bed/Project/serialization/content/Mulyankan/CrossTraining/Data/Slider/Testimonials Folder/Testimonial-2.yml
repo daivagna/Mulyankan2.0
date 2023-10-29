@@ -13,11 +13,21 @@ Languages:
       Value: 20231029T052306Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6a078088-f9c1-4a8c-836b-f395cbcc2c49"
+      Value: "7b19de72-4e2f-4809-9d9d-22f84ca5571d"
+    - ID: "969183ba-e849-4a01-a758-8645c7004f74"
+      Hint: Image
+      Value: |
+        <image mediaid="{DB486E8E-7F92-4302-A233-51A2207DECD0}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Searching for a great prototyping and layout design app was difficult but thankfully I found app suite quickly</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: "Lindsay Spice - Marketer"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T052306Z
+      Value: 20231029T063228Z

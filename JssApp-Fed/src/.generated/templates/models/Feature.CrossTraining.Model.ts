@@ -283,7 +283,7 @@ export namespace CrossTraining.Slider.Fields {
  }; 
 }
 
-export namespace CrossTraining.Video.Fields {
+export namespace CrossTraining.Iframe.Fields {
     export type Video = 
             CrossTraining.Base.Fields.Headline & 
             CrossTraining.Base.Fields.HeadlineTag & 

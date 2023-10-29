@@ -13,11 +13,21 @@ Languages:
       Value: 20231029T052306Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6a078088-f9c1-4a8c-836b-f395cbcc2c49"
+      Value: "300b7c2f-986b-4515-9ec7-54839910cd53"
+    - ID: "969183ba-e849-4a01-a758-8645c7004f74"
+      Hint: Image
+      Value: |
+        <image mediaid="{BA5B47C6-5701-421B-B236-843F1421C1AC}" />
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>The app support team is amazing. They've helped me with some issues and I am so grateful to the entire team</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: "Ann Blake - Developer"
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T052306Z
+      Value: 20231029T063309Z

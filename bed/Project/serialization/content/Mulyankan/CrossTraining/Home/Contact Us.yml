@@ -1,0 +1,47 @@
+﻿---
+ID: "281847ac-156a-411c-a544-d255995aee1d"
+Parent: "61931d39-7f00-42ab-b039-595b90ddfad7"
+Template: "54533177-4e91-40e6-88ff-077b8b6f136f"
+Path: /sitecore/content/Mulyankan/CrossTraining/Home/Contact Us
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        <r
+          ds="{6031E121-E0BC-4359-8735-28AAE7F6B01F}"
+          id="{A3F6CEE1-62F9-4B15-A05C-DDC285E02FBB}"
+          par=""
+          ph="headless-main"
+          uid="{31A49B04-6A3D-4BE6-B466-9829DD9D27FA}"
+          ccb="Clear on publish" />
+        <r
+          ds="{559851DD-18B7-4DB3-8611-6D3447923980}"
+          id="{CBAE3985-EAC0-4B80-A5FB-5879B5ADE931}"
+          par=""
+          ph="headless-main"
+          uid="{3627CD39-3291-4758-ADA8-3DF7EFEFE2AA}"
+          ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T071302Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "29230cd9-81f8-4ab9-b747-a42672f83737"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T090300Z

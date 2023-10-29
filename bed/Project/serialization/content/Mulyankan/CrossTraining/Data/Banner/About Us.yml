@@ -1,0 +1,47 @@
+﻿---
+ID: "65c0f528-3aca-4682-8294-649bb76df681"
+Parent: "77d28362-2a87-4878-aea8-129d661cd27e"
+Template: "22b4377d-a57b-468d-8238-bcd18faf4eea"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Banner/About Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05e303df-1d7d-46ab-8ee2-98e4d74e438e"
+      Hint: PrimaryCTA
+      Value: |
+        <link linktype="external" url="https://www.google.com" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T092117Z
+    - ID: "53cfdc9d-c393-4026-bb93-0ce951980f74"
+      Hint: SecondaryCTAText
+      Value: Secondary CTA
+    - ID: "823a5f43-883d-4a3a-b3c1-97c3bd110461"
+      Hint: PrimaryCTAText
+      Value: Primary CTA
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a898248a-d633-461f-8a6e-948e9d7d9011"
+    - ID: "9b9a2fa5-59fb-48f5-addc-cd87cf477170"
+      Hint: SecondaryCTA
+      Value: |
+        <link linktype="external" url="https://www.cricbuzz.com" anchor="" target="" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>We’re built on equal parts empathy and hustle.</p>
+    - ID: "bcefbad7-0013-4e00-ae9f-e14beba2ff61"
+      Hint: Image
+      Value: |
+        <image mediaid="{88633C3C-C5BE-4111-A243-E4301AC7655C}" />
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: About Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T071331Z
