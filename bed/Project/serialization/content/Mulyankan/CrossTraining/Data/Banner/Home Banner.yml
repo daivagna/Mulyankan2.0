@@ -23,7 +23,7 @@ Languages:
       Value: Primary CTA
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8cf5c21c-3b3c-4614-bc2c-ff517b362db8"
+      Value: "98686e48-cd28-4c56-8bd1-8fe1a9ec20d0"
     - ID: "9b9a2fa5-59fb-48f5-addc-cd87cf477170"
       Hint: SecondaryCTA
       Value: |
@@ -38,10 +38,10 @@ Languages:
     - ID: "bcefbad7-0013-4e00-ae9f-e14beba2ff61"
       Hint: Image
       Value: |
-        <image mediaid="{444A2141-9C38-4C18-B74F-D74F4134BA3C}" />
+        <image mediaid="{A1E604F6-7F52-4255-B30B-D4EA51665220}" />
     - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
       Hint: Heading
       Value: Meet Our Team
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T090142Z
+      Value: 20231029T105721Z

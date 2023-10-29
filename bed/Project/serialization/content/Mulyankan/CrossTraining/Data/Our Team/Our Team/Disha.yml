@@ -1,0 +1,53 @@
+﻿---
+ID: "36e8a486-2896-4987-b307-a0787a15be27"
+Parent: "c2d32e92-6beb-4a92-9eb1-b1b38a27bda3"
+Template: "cdcb57a4-50d1-4d76-bdd9-e775bb111f5a"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Our Team/Our Team/Disha
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T102306Z
+    - ID: "330538df-dd62-4738-a98e-26a3bfc84f9c"
+      Hint: Name
+      Value: Disha Patel
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d8b1e16d-bd64-4611-a7cd-519a5c7e6185"
+    - ID: "955bfa94-538a-4f82-bbcd-eeb3ecbbf992"
+      Hint: Image
+      Value: |
+        <image mediaid="{AFA316C7-BCB0-4162-BAE8-759C2F0C68AE}" />
+    - ID: "a2b11b1f-e645-483f-90cb-a00a11b70897"
+      Hint: Skills
+      Value: |
+        {B486FBD4-DC4E-4A93-A041-7EA34EBA9B70}
+        {94BF3D04-EBD9-438B-B491-16E9904A08CB}
+        {D1BBE628-854F-4780-9C98-7E396B105B3C}
+        {BD82929C-E4AE-4E4C-912E-F66550CFA7D2}
+        {0F36F694-D453-4849-9FB9-601BC96FC27A}
+        {2F82BE1A-F95C-4A25-963D-5C0A0C2A5FCD}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T104821Z
+    - ID: "dcf5f51c-35c5-4131-be37-0146cd1d3823"
+      Hint: Department
+      Value: "{46332D8C-4A8B-483B-B130-3DBC3166FB29}"
+    - ID: "e2f2374d-c0b9-4914-9ed8-f49a9d8f0ba1"
+      Hint: Designation
+      Value: "{C970DCFE-7BCE-4B64-A932-0717FFEFC012}"

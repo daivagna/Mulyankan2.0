@@ -1,0 +1,23 @@
+﻿---
+ID: "c2d32e92-6beb-4a92-9eb1-b1b38a27bda3"
+Parent: "59086530-a1d9-4a59-812a-3e6c4bec226d"
+Template: "faf1dd9c-3904-4afb-a63b-db94c585efa8"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Our Team/Our Team
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T102252Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f71b2c3-61a9-45e5-839b-83348d4b30ac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T102252Z

@@ -1,0 +1,47 @@
+﻿---
+ID: "5e367f03-dd81-46b8-8386-733dc92a9bdc"
+Parent: "c2d32e92-6beb-4a92-9eb1-b1b38a27bda3"
+Template: "cdcb57a4-50d1-4d76-bdd9-e775bb111f5a"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Our Team/Our Team/Kunal
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T102756Z
+    - ID: "330538df-dd62-4738-a98e-26a3bfc84f9c"
+      Hint: Name
+      Value: Kunal Gholap
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2026c957-6d0e-42b3-93be-6f9bcb64d175"
+    - ID: "955bfa94-538a-4f82-bbcd-eeb3ecbbf992"
+      Hint: Image
+      Value: |
+        <image mediaid="{337C49E3-0D38-4A15-9973-11389DD1A55B}" />
+    - ID: "a2b11b1f-e645-483f-90cb-a00a11b70897"
+      Hint: Skills
+      Value: |
+        {B486FBD4-DC4E-4A93-A041-7EA34EBA9B70}
+        {BD82929C-E4AE-4E4C-912E-F66550CFA7D2}
+        {2F82BE1A-F95C-4A25-963D-5C0A0C2A5FCD}
+        {0F36F694-D453-4849-9FB9-601BC96FC27A}
+        {94BF3D04-EBD9-438B-B491-16E9904A08CB}
+        {D1BBE628-854F-4780-9C98-7E396B105B3C}
+        {A004273F-84D8-49B0-A496-4E9360675AC2}
+        {25B3258B-9325-4C73-91B6-602276E6B5BD}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T104842Z
+    - ID: "dcf5f51c-35c5-4131-be37-0146cd1d3823"
+      Hint: Department
+      Value: "{FA907232-48D4-40BE-96CC-6CB1808B79E9}"
+    - ID: "e2f2374d-c0b9-4914-9ed8-f49a9d8f0ba1"
+      Hint: Designation
+      Value: "{0BAB49CC-9175-46D4-8C05-36EBEE9186F6}"

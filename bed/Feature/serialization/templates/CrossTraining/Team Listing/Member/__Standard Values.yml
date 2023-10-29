@@ -1,0 +1,44 @@
+﻿---
+ID: "2be103d8-502e-4e6e-9981-008faaabf429"
+Parent: "cdcb57a4-50d1-4d76-bdd9-e775bb111f5a"
+Template: "cdcb57a4-50d1-4d76-bdd9-e775bb111f5a"
+Path: /sitecore/templates/Feature/CrossTraining/Team Listing/Member/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T102540Z
+    - ID: "330538df-dd62-4738-a98e-26a3bfc84f9c"
+      Hint: Name
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "52da0215-8151-4161-9581-7f77a8d4a633"
+      Hint: Description
+      Value: <p>Add description here</p>
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aeaaf4c2-4737-4cef-9c50-f3dc60adf8cb"
+    - ID: "955bfa94-538a-4f82-bbcd-eeb3ecbbf992"
+      Hint: Image
+      Value: |
+        <image mediaid="{BA5B47C6-5701-421B-B236-843F1421C1AC}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T104633Z
+    - ID: "e2f2374d-c0b9-4914-9ed8-f49a9d8f0ba1"
+      Hint: Designation
+      Value: 

@@ -184,7 +184,37 @@ export namespace CrossTraining.Iframe.Fields {
 
 export namespace CrossTraining.TeamListing.Fields {
     export type Member = { 
-        fields?: {  
+        fields?: { 
+            /**
+            * Represents the Department field (dcf5f51c-35c5-4131-be37-0146cd1d3823).
+            */
+            Department: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the Description field (52da0215-8151-4161-9581-7f77a8d4a633).
+            */
+            Description: Field<string>;
+
+            /**
+            * Represents the Designation field (e2f2374d-c0b9-4914-9ed8-f49a9d8f0ba1).
+            */
+            Designation: Sitecore.Override.ItemEx[];
+
+            /**
+            * Represents the Image field (955bfa94-538a-4f82-bbcd-eeb3ecbbf992).
+            */
+            Image: ImageField;
+
+            /**
+            * Represents the Name field (330538df-dd62-4738-a98e-26a3bfc84f9c).
+            */
+            Name: Field<string>;
+
+            /**
+            * Represents the Skills field (a2b11b1f-e645-483f-90cb-a00a11b70897).
+            */
+            Skills: Sitecore.Override.ItemEx[];
+ 
         }
  }; 
 }
