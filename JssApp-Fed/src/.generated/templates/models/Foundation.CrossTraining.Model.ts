@@ -28,18 +28,6 @@ export namespace CrossTraining.Base.Fields {
 }
 
 export namespace CrossTraining.Base.Fields {
-    export type HeadingTagList = { 
-        fields?: { 
-            /**
-            * Represents the Heading Tag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
-            */
-            Tag: Field<string>;
- 
-        }
- }; 
-}
-
-export namespace CrossTraining.Base.Fields {
     export type Headline = { 
         fields?: { 
             /**
@@ -80,6 +68,18 @@ export namespace CrossTraining.Base.Fields {
             * Represents the Title field (22935af9-ed95-4f2c-bbc9-97566b993f9d).
             */
             Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type List = { 
+        fields?: { 
+            /**
+            * Represents the List Name field (aa07375a-0ff6-49b9-be48-981a757b32e2).
+            */
+            ListName: Field<string>;
  
         }
  }; 

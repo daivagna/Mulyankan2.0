@@ -30,7 +30,7 @@ const PromoDefaultComponent = (props: PromoProps): JSX.Element => (
 
 export const Default = (props: PromoProps): JSX.Element => {
   const id = props.params.RenderingIdentifier;
-  console.log(id);
+
   if (props.fields) {
     return (
       <>
