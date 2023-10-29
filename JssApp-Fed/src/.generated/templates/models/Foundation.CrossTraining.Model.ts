@@ -16,23 +16,6 @@ import { DefaultComponentProps } from '@/lib/component-props';
 
 
 export namespace CrossTraining.Base.Fields {
-    export type List = { 
-        fields?: { 
-            /**
-            * Represents the Heading Tag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
-            */
-            HeadingTag: Field<string>;
-
-            /**
-            * Represents the Rating field (0da0dae9-f47f-4577-9b75-1cee47fbb40b).
-            */
-            Rating: Field<string>;
- 
-        }
- }; 
-}
-
-export namespace CrossTraining.Base.Fields {
     export type Description = { 
         fields?: { 
             /**
@@ -91,12 +74,12 @@ export namespace CrossTraining.Base.Fields {
 }
 
 export namespace CrossTraining.Base.Fields {
-    export type Skills = { 
+    export type List = { 
         fields?: { 
             /**
-            * Represents the SkillsList field (7af288c1-bfda-4311-b8ae-a5b7c4e0ce4e).
+            * Represents the List Name field (aa07375a-0ff6-49b9-be48-981a757b32e2).
             */
-            SkillsList: Sitecore.Override.ItemEx[];
+            ListName: Field<string>;
  
         }
  }; 

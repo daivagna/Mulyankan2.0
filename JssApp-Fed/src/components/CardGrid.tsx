@@ -36,7 +36,7 @@ const CardList = (props: CardListProps): JSX.Element => {
         <div className="text-4xl sm:text-5xl text-center my-10">
           {props.rendering.fields.Heading.value}
         </div>
-        <div className="grid grid-cols-3 gap-3 auto-rows-max">
+        <div className="grid grid-col md:grid-cols-3 gap-3 auto-rows-max">
           {list.map((fields: any, index) => {
             //console.log('FIeld name' + JSON.stringify(fields.fields.CardImage.value));
 

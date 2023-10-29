@@ -1,22 +1,22 @@
 ﻿---
-ID: "1b6d11f8-864d-4ae4-9fc2-65de39dd7de5"
+ID: "54533177-4e91-40e6-88ff-077b8b6f136f"
 Parent: "6f42f8f0-83be-42e7-be4c-3739bd13683c"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
-Path: /sitecore/templates/Project/Mulyankan/CrossTraining/Generic Page
+Path: /sitecore/templates/Project/Mulyankan/CrossTraining/Error Page
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: Applications/32x32/document_edit.png
+  Value: Applications/32x32/transform.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: |
-    {47151711-26CA-434E-8132-D3E0B7D26683}
-    {371D5FBB-5498-4D94-AB2B-E3B70EEBE78C}
-    {4414A1F9-826A-4647-8DF4-ED6A95E64C43}
-    {6650FB34-7EA1-4245-A919-5CC0F002A6D7}
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {D3AF2197-EDD5-43A1-B4F6-1B8B28407C0B}
+    {B505D7BB-A40F-451A-B2BB-A4781E7838DC}
+    {94DFD8C3-B9B6-4D47-9933-0FD00647135E}
 - ID: "f7d48a55-2158-4f02-9356-756654404f73"
   Hint: __Standard values
-  Value: "{78EAA7E8-05A8-4C94-8418-346166C35F0B}"
+  Value: "{91F607E5-CB13-4964-B328-15C7299ACD0F}"
 Languages:
 - Language: en
   Versions:
@@ -24,7 +24,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231018T103056Z
+      Value: 20231029T064833Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -35,11 +35,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f7fe7836-05db-4e13-9f8b-beeeffc48544"
+      Value: "6a836846-7032-402d-b17d-914f568e586c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T092611Z
+      Value: 20231029T092518Z
