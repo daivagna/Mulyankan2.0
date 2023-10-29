@@ -2,7 +2,7 @@
 ID: "abcc68ee-3011-4380-924d-1443e328c4a9"
 Parent: "c8d746bc-b833-457a-86fb-76b3daee22ac"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
-Path: /sitecore/templates/Feature/CrossTraining/Video/Video Component/Video Component
+Path: /sitecore/templates/Feature/CrossTraining/Video/Video/Video Component
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon

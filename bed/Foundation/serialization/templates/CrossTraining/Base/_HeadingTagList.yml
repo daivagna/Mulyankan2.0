@@ -4,9 +4,15 @@ Parent: "c691e250-75f4-4163-86d7-51d41fe47c44"
 Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
 Path: /sitecore/templates/Foundation/CrossTraining/Base/_HeadingTagList
 SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/scroll.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
   Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{EDC61734-1CD2-4D66-A541-593B6A7192F9}"
 Languages:
 - Language: en
   Versions:
@@ -25,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ff1c11a-27d1-489b-b3b0-4e7ce6accce8"
+      Value: "3f56cfcb-05f1-4cd1-bbcb-8a55c8e8c652"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T044145Z
+      Value: 20231029T050435Z

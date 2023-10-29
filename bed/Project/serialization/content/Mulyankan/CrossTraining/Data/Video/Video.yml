@@ -1,8 +1,8 @@
 ﻿---
-ID: "7f68ed6b-5b42-4d41-8e81-5a0f24851c04"
-Parent: "c8d746bc-b833-457a-86fb-76b3daee22ac"
+ID: "6e6738aa-9c73-470d-afd8-69547e1266b3"
+Parent: "6883faef-4a40-403d-93cd-40fa8323a933"
 Template: "c8d746bc-b833-457a-86fb-76b3daee22ac"
-Path: /sitecore/templates/Feature/CrossTraining/Video/Video Component/__Standard Values
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Video/Video
 Languages:
 - Language: en
   Versions:
@@ -10,24 +10,23 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T145642Z
+      Value: 20231029T044550Z
     - ID: "27db2356-0476-422f-9b38-e88bc22a64c8"
       Hint: VideoUrl
-      Value: Add Video Url
+      Value: "https://www.youtube.com/watch?v=URwyb1savZ8"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3ca04e8c-bd4f-480b-8381-940c5953888b"
+      Value: "ab997fc3-ca9a-4f64-ba6f-2f4a1d31ae79"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
-      Hint: BodyCopy
-      Value: |
-        <span style="color: #1f2937;">Team management mobile applications don&rsquo;t get much better than Pavo. Download it today</span>
     - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
       Hint: Heading
-      Value: ADD Title Here
+      Value: Horizontal Digital
+    - ID: "ca30ce0a-5de3-4763-b5e4-c1f27912dccf"
+      Hint: Tag
+      Value: h2
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T043309Z
+      Value: 20231029T045612Z
