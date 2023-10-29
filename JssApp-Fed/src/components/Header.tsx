@@ -17,8 +17,6 @@ const HeaderDefaultComponent = (props: HeaderProps): JSX.Element => (
 );
 
 export const Default = (props: HeaderProps): JSX.Element => {
-  console.log(props.fields.NavigationLinks[0]);
-
   if (props.fields) {
     return (
       <nav className="bg-gray-800">

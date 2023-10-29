@@ -1,37 +1,40 @@
 ﻿---
-ID: "b9af190f-503e-4823-9fba-4560f8cc50c8"
+ID: "47ad658c-4e59-479b-8bbe-e0b4f29c7032"
 Parent: "61931d39-7f00-42ab-b039-595b90ddfad7"
-Template: "54533177-4e91-40e6-88ff-077b8b6f136f"
+Template: "1b6d11f8-864d-4ae4-9fc2-65de39dd7de5"
 Path: /sitecore/content/Mulyankan/CrossTraining/Home/About Us
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
   Value: |
-    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
       <d
-        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
-        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}">
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
         <r
-          ds="{65C0F528-3ACA-4682-8294-649BB76DF681}"
-          id="{A3F6CEE1-62F9-4B15-A05C-DDC285E02FBB}"
-          par=""
-          ph="headless-main"
-          uid="{8B611348-023C-475A-BEFF-E955B6C74F1B}"
-          ccb="Clear on publish" />
+          uid="{69EFE63C-2297-4F2D-87A3-0A4F096EC95D}"
+          p:before="*"
+          s:ds="{65C0F528-3ACA-4682-8294-649BB76DF681}"
+          s:id="{A3F6CEE1-62F9-4B15-A05C-DDC285E02FBB}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
         <r
-          ds="{3ACC58CE-C2C9-49C9-962A-D57010B2BE04}"
-          id="{7BFDC05A-A6C8-4A3C-B2E8-9238E729947E}"
-          par=""
-          ph="headless-main"
-          uid="{8A92376D-8EFF-4D84-94CA-F61FAD3578F1}"
-          ccb="Clear on publish" />
+          uid="{658A7A6E-B82C-479C-82E2-FC5828BFB5E4}"
+          p:after="r[@uid='{69EFE63C-2297-4F2D-87A3-0A4F096EC95D}']"
+          s:ds="{3ACC58CE-C2C9-49C9-962A-D57010B2BE04}"
+          s:id="{7BFDC05A-A6C8-4A3C-B2E8-9238E729947E}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
         <r
-          ds="{0C419670-18E3-4CAE-8D82-E6203908503D}"
-          id="{41FE70F2-23C8-439B-8084-19F660035DF0}"
-          par=""
-          ph="headless-main"
-          uid="{293CF4EF-5365-4187-904F-0294EA5B9F5C}"
-          ccb="Clear on publish" />
+          uid="{4F36BFD1-E53C-4CCE-98C0-483294C3F606}"
+          p:after="*[1=2]"
+          s:ds="{0C419670-18E3-4CAE-8D82-E6203908503D}"
+          s:id="{41FE70F2-23C8-439B-8084-19F660035DF0}"
+          s:par=""
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
       </d>
     </r>
 Languages:
@@ -41,14 +44,20 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231029T070024Z
+      Value: 20231029T092740Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: About Us
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2dedc08c-6390-4b00-bebb-3844f630480b"
+      Value: "f7ceee9a-f93c-48b7-ba5d-4ac684c1de3a"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "c5387f14-1028-42c7-b155-068ddcfd1e61"
+      Hint: Title
+      Value: About Us
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T071642Z
+      Value: 20231029T092845Z

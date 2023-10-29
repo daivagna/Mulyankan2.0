@@ -1,7 +1,7 @@
 ﻿---
 ID: "ff409f68-121c-4791-b827-3bd950d350b9"
 Parent: "61931d39-7f00-42ab-b039-595b90ddfad7"
-Template: "54533177-4e91-40e6-88ff-077b8b6f136f"
+Template: "1b6d11f8-864d-4ae4-9fc2-65de39dd7de5"
 Path: /sitecore/content/Mulyankan/CrossTraining/Home/_404
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
@@ -30,14 +30,11 @@ Languages:
       Value: 20231029T071326Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d60813df-1e70-4cc0-b39f-a066036327bf"
+      Value: "1310dcce-544f-4f4f-bf98-38238e43b8ec"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
-    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
-      Hint: Heading
-      Value: 404
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T071636Z
+      Value: 20231029T093418Z
