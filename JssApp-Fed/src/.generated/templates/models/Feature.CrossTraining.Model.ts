@@ -185,6 +185,13 @@ export namespace CrossTraining.Navigation.Header.Fields {
  }; 
 }
 
+export namespace CrossTraining.Slider.Fields {
+    export type Slider = { 
+        fields?: {  
+        }
+ }; 
+}
+
 export namespace CrossTraining.Tab.Fields {
     export type TabDetails = 
             CrossTraining.Base.Fields.Headline & 
@@ -240,7 +247,7 @@ export namespace CrossTraining.Tab.Fields {
  }; 
 }
 
-export namespace CrossTraining.VideoComponent.Fields {
+export namespace CrossTraining.Video.Fields {
     export type VideoComponent = 
             CrossTraining.Base.Fields.Headline & 
             CrossTraining.Base.Fields.HeadlineTag & 

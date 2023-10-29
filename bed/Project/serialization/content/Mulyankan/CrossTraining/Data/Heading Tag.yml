@@ -1,18 +1,12 @@
 ﻿---
-ID: "ca30ce0a-5de3-4763-b5e4-c1f27912dccf"
-Parent: "ce0c05f2-d675-40a9-a05a-f192c0647f3d"
-Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Foundation/CrossTraining/Base/_HeadlineTag/HeadlineTag/Tag
+ID: "1a76e4a2-1ead-447b-862d-b35822004568"
+Parent: "adb5e659-694a-4e42-8e4b-b377e1d53ee7"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Heading Tag
 SharedFields:
-- ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
-  Hint: Source
-  Value: "{1A76E4A2-1EAD-447B-862D-B35822004568}"
-- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
-  Hint: Type
-  Value: Droplist
-- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
-  Hint: __Sortorder
-  Value: 100
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{C7C6E9F1-4E80-4B05-A85B-4DAB224301AF}"
 Languages:
 - Language: en
   Versions:
@@ -20,7 +14,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231029T043118Z
+      Value: 20231029T044237Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +25,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5a206cbd-eb99-4ce6-b0d9-cbaf4a31bb8a"
+      Value: "8c6e5109-bf5f-4059-8291-c707507bf5f2"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T044830Z
+      Value: 20231029T044309Z
