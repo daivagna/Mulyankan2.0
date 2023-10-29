@@ -9,7 +9,11 @@ SharedFields:
   Value: Applications/32x32/bookmarks.png
 - ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
   Hint: __Base template
-  Value: "{1930BBEB-7805-471A-A3BE-4858AC7CF696}"
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {D3AF2197-EDD5-43A1-B4F6-1B8B28407C0B}
+    {94DFD8C3-B9B6-4D47-9933-0FD00647135E}
+    {B505D7BB-A40F-451A-B2BB-A4781E7838DC}
 Languages:
 - Language: en
   Versions:
@@ -28,11 +32,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "3db76025-27ed-404c-8150-d09b3a0bfe3c"
+      Value: "edfbcba3-af13-4516-a4c7-28520bad52bb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T044902Z
+      Value: 20231029T051924Z

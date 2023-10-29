@@ -13,11 +13,21 @@ Languages:
       Value: 20231028T131821Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1a1310b4-e2a1-419f-a1e2-017787481a36"
+      Value: "46a989ad-4240-41be-88af-a40a1f9fef31"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>We make sure that you get best of both the technologies be it CMS or frontend or a middleware developer, we will make sure by providing you single teammate who knows both the side and gives you faster time to market.</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Best Of Both (BOB)
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T131821Z
+      Value: 20231029T060815Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{1884CA22-6C5D-467F-A453-C27E6A4A8C34}" />

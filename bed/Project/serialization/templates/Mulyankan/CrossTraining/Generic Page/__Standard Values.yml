@@ -1,0 +1,23 @@
+﻿---
+ID: "91f607e5-cb13-4964-b328-15c7299acd0f"
+Parent: "54533177-4e91-40e6-88ff-077b8b6f136f"
+Template: "54533177-4e91-40e6-88ff-077b8b6f136f"
+Path: /sitecore/templates/Project/Mulyankan/CrossTraining/Generic Page/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T065011Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daf71fbc-d5c7-4834-b55f-ef8aadf897ec"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T065011Z

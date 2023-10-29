@@ -1,0 +1,48 @@
+﻿---
+ID: "145637cd-c117-42e4-ba9d-e4c01a19664d"
+Parent: "c4ec7466-6aec-4942-822b-1916c9c08eb3"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Mulyankan/CrossTraining/Cards/features-icon-6"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/145637CDC11742E4BA9DE4C01A19664D.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ffd9ddc3-3f82-4881-ae1e-92cbb09523e6"
+  Value: PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1OC41OTEgNTUuNTU2Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzU5NGNkYTt9LmNscy0ye2ZpbGw6I2ViNDI3ZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmZlYXR1cmVzLWljb24tNjwvdGl0bGU+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMzAuODEzLDU1LjU1NkEyNy43NzgsMjcuNzc4LDAsMSwxLDU4LjU5MSwyNy43NzgsMjcuNzc3LDI3Ljc3NywwLDAsMSwzMC44MTMsNTUuNTU2Wm0yLjc3OC0yNy43NzhWMTMuODg5SDI4LjAzNVYzMy4zMzNINDQuN1YyNy43NzhIMzMuNTkxWiIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTguNjA4LDMyLjE5NGg5LjgzN2E4LjYwOCw4LjYwOCwwLDEsMSwwLDE3LjIxNUg4LjYwOEE4LjYwOCw4LjYwOCwwLDAsMSw4LjYwOCwzMi4xOTRabTkuODM3LDEyLjNBMy42ODksMy42ODksMCwxLDAsMTQuNzU2LDQwLjgsMy42ODksMy42ODksMCwwLDAsMTguNDQ1LDQ0LjQ5WiIvPjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 553
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T054634Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d72fa398-f195-4016-9348-c0d45f975360"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T054634Z

@@ -1,60 +1,52 @@
-import config from 'temp/config';
+import { useEffect } from 'react';
+import { GetStaticProps } from 'next';
+import PageLayout from 'src/Layout';
 import {
-  GraphQLErrorPagesService,
   SitecoreContext,
-  ErrorPages,
+  ComponentPropsContext,
+  handleEditorFastRefresh,
 } from '@sitecore-jss/sitecore-jss-nextjs';
 import { SitecorePageProps } from 'lib/page-props';
-import NotFound from 'src/NotFound';
+import { sitecorePagePropsFactory } from 'lib/page-props-factory';
 import { componentBuilder } from 'temp/componentBuilder';
-import Layout from 'src/Layout';
-import { GetStaticProps } from 'next';
-import { siteResolver } from 'lib/site-resolver';
 
-const Custom404 = (props: SitecorePageProps): JSX.Element => {
-  if (!(props && props.layoutData)) {
-    return <NotFound />;
-  }
+const SitecorePage = (
+  { componentProps, layoutData }: SitecorePageProps,
+  props: SitecorePageProps
+): JSX.Element => {
+  useEffect(() => {
+    // Since Sitecore editors do not support Fast Refresh, need to refresh EE chromes after Fast Refresh finished
+    handleEditorFastRefresh();
+  }, []);
 
   return (
-    <SitecoreContext
-      componentFactory={componentBuilder.getComponentFactory()}
-      layoutData={props.layoutData}
-    >
-      <Layout layoutData={props.layoutData} headLinks={props.headLinks} />
-    </SitecoreContext>
+    <ComponentPropsContext value={componentProps}>
+      <SitecoreContext componentFactory={componentBuilder.getComponentFactory()}>
+        <PageLayout layoutData={layoutData} headLinks={props.headLinks} />
+      </SitecoreContext>
+    </ComponentPropsContext>
   );
 };
 
-export const getStaticProps: GetStaticProps = async (context) => {
-  const site = siteResolver.getByName(config.jssAppName);
-  const errorPagesService = new GraphQLErrorPagesService({
-    endpoint: config.graphQLEndpoint,
-    apiKey: config.sitecoreApiKey,
-    siteName: site.name,
-    language: context.locale || config.defaultLanguage,
-    retries:
-      (process.env.GRAPH_QL_SERVICE_RETRIES &&
-        parseInt(process.env.GRAPH_QL_SERVICE_RETRIES, 10)) ||
-      0,
-  });
-  let resultErrorPages: ErrorPages | null = null;
+// This function gets called at build time on server-side.
+// It may be called again, on a serverless function, if
+// revalidation (or fallback) is enabled and a new request comes in.
+export const getStaticProps: GetStaticProps<any> = async (context) => {
+  const path = '/_404';
 
-  if (!process.env.DISABLE_SSG_FETCH) {
-    try {
-      resultErrorPages = await errorPagesService.fetchErrorPages();
-    } catch (error) {
-      console.log('Error occurred while fetching error pages');
-      console.log(error);
-    }
-  }
+  // Update the layout from Sitecore
+  const props = await sitecorePagePropsFactory.create({
+    ...context,
+    params: { ...context.params, path: path },
+  });
 
   return {
-    props: {
-      headLinks: [],
-      layoutData: resultErrorPages?.notFoundPage?.rendered || null,
-    },
+    props,
+    // Next.js will attempt to re-generate the page:
+    // - When a request comes in
+    // - At most once every 5 seconds
+    revalidate: 5, // In seconds
   };
 };
 
-export default Custom404;
+export default SitecorePage;

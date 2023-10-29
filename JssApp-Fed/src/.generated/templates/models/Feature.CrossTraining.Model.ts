@@ -19,7 +19,8 @@ import { DefaultComponentProps } from '@/lib/component-props';
 export namespace CrossTraining.Banner.Fields {
     export type Banner = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Background Color field (eaccab0a-4a50-44cf-8b9d-d9758ecefaea).
@@ -58,7 +59,8 @@ export namespace CrossTraining.Banner.Fields {
 export namespace CrossTraining.CardGrid.Fields {
     export type Card = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Card Image field (fa5330b6-1854-4649-8ffc-d3f2b27c4c8a).
@@ -72,7 +74,8 @@ export namespace CrossTraining.CardGrid.Fields {
 export namespace CrossTraining.CardGrid.Fields {
     export type CardGrid = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Cards field (f7872135-6bbd-4f08-a57e-0834be2627b0).
@@ -93,7 +96,8 @@ export namespace CrossTraining.CardGrid.Fields {
 export namespace CrossTraining.ContentBlock.Fields {
     export type ContentBlock = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: {  
         }
  }; 
@@ -186,8 +190,16 @@ export namespace CrossTraining.Navigation.Header.Fields {
 }
 
 export namespace CrossTraining.Slider.Fields {
-    export type Slider = { 
-        fields?: {  
+    export type Slider = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the SliderCards field (023962d9-1364-44ac-a3a8-30bef0eb88f7).
+            */
+            SliderCards: Sitecore.Override.ItemEx[];
+ 
         }
  }; 
 }
@@ -195,7 +207,8 @@ export namespace CrossTraining.Slider.Fields {
 export namespace CrossTraining.Tab.Fields {
     export type TabDetails = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the AdditionalInfo field (e6a08e5a-e3ce-4eb0-baca-4e7089f017f1).
@@ -236,7 +249,8 @@ export namespace CrossTraining.Tab.Fields {
 export namespace CrossTraining.Tab.Fields {
     export type TabsList = 
             CrossTraining.Base.Fields.Headline & 
-            CrossTraining.Base.Fields.Description & { 
+            CrossTraining.Base.Fields.Description & 
+            CrossTraining.Base.Fields.HeadlineTag & { 
         fields?: { 
             /**
             * Represents the Tabs field (e648cbda-67a6-4ee8-b3b1-ebce3f5dc779).
@@ -247,8 +261,30 @@ export namespace CrossTraining.Tab.Fields {
  }; 
 }
 
-export namespace CrossTraining.Video.Fields {
-    export type VideoComponent = 
+export namespace CrossTraining.Slider.Fields {
+    export type Testimonial = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the Image field (969183ba-e849-4a01-a758-8645c7004f74).
+            */
+            Image: ImageField;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Slider.Fields {
+    export type TestimonialsFolder = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Iframe.Fields {
+    export type Video = 
             CrossTraining.Base.Fields.Headline & 
             CrossTraining.Base.Fields.HeadlineTag & 
             CrossTraining.Base.Fields.Description & { 

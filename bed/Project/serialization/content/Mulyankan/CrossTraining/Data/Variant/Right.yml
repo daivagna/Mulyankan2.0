@@ -1,0 +1,34 @@
+﻿---
+ID: "a27bdb41-0863-48a7-b81f-e4754e33100d"
+Parent: "aadad24c-9ab9-4756-83d2-9ce83ba1bd9c"
+Template: "67f6670b-c949-4a6d-a125-81745f035c5c"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Variant/Right
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T052954Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5f170d35-f7cb-4af5-b199-279550ac4558"
+      Hint: VariantList
+      Value: Right
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c64bcf9-d97f-4c31-9828-eb3e08cf30af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T052959Z

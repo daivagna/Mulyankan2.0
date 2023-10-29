@@ -16,24 +16,29 @@ import { DefaultComponentProps } from '@/lib/component-props';
 
 
 export namespace CrossTraining.Base.Fields {
-    export type Description = { 
+    export type List = { 
         fields?: { 
             /**
-            * Represents the Description field (bcdcf1f2-ac93-41b4-bc96-7f44f97867e4).
+            * Represents the Heading Tag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
             */
-            BodyCopy: Field<string>;
+            HeadingTag: Field<string>;
+
+            /**
+            * Represents the Rating field (0da0dae9-f47f-4577-9b75-1cee47fbb40b).
+            */
+            Rating: Field<string>;
  
         }
  }; 
 }
 
 export namespace CrossTraining.Base.Fields {
-    export type HeadingTagList = { 
+    export type Description = { 
         fields?: { 
             /**
-            * Represents the HeadingTag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
+            * Represents the Description field (bcdcf1f2-ac93-41b4-bc96-7f44f97867e4).
             */
-            HeadingTag: Field<string>;
+            BodyCopy: Field<string>;
  
         }
  }; 
@@ -80,6 +85,30 @@ export namespace CrossTraining.Base.Fields {
             * Represents the Title field (22935af9-ed95-4f2c-bbc9-97566b993f9d).
             */
             Title: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type Skills = { 
+        fields?: { 
+            /**
+            * Represents the SkillsList field (7af288c1-bfda-4311-b8ae-a5b7c4e0ce4e).
+            */
+            SkillsList: Sitecore.Override.ItemEx[];
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
+    export type Variant = { 
+        fields?: { 
+            /**
+            * Represents the VariantList field (5f170d35-f7cb-4af5-b199-279550ac4558).
+            */
+            VariantList: Field<string>;
  
         }
  }; 

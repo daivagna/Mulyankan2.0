@@ -1,0 +1,33 @@
+﻿---
+ID: "b5133d0e-c544-4c39-bdf0-12624e5feed7"
+Parent: "6b4b0f39-4b1b-44e2-bb45-afbc074a7ea7"
+Template: "6f099d84-b313-4a59-abed-64522507809f"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Card Grid/Cards Folder/Card-5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T132136Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "07144097-fec9-40d2-80d0-878f850f4870"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Because our augmented are trained full stack developer in NextJS, JSS and Sitecore verified, It reduces a cost by 50% because instead of hiring two people from backend and one from the frontend, we give one certified resource who knows both the world.</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Reduce Cost by 50%
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T061021Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{620B5DE6-88AB-4A3A-9352-A6AC0CB19EEC}" />

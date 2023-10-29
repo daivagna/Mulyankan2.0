@@ -13,11 +13,21 @@ Languages:
       Value: 20231028T132108Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "99ad7e64-2e00-4142-8bd2-90e7d87f4c54"
+      Value: "9a5d6946-a164-4f6e-815c-6f4016bde5c6"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>Because having a full stack augmented resource does not require to BED or FED team to connect to, and because the sites are created in a headless fashion, you get Faster Go To Market&nbsp;</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Faster Go To Market
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T132108Z
+      Value: 20231029T060848Z
+    - ID: "fa5330b6-1854-4649-8ffc-d3f2b27c4c8a"
+      Hint: CardImage
+      Value: |
+        <image mediaid="{86514FAB-A34C-4067-BA57-9C98283DCE68}" />
