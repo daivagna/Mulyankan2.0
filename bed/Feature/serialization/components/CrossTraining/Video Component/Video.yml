@@ -12,7 +12,7 @@ SharedFields:
   Value: /sitecore/templates/Feature/CrossTraining/Video/Video
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: /sitecore/content/Mulyankan/CrossTraining/Data/Video Component
+  Value: /sitecore/content/Mulyankan/CrossTraining/Data/Video
 Languages:
 - Language: en
   Versions:
@@ -31,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "81876dde-6c3e-4de8-bb72-049170bf9521"
+      Value: "2c5ce679-a082-45f0-8773-c5c1a3bbfb62"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T044500Z
+      Value: 20231029T045447Z
