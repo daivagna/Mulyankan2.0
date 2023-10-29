@@ -190,8 +190,16 @@ export namespace CrossTraining.Navigation.Header.Fields {
 }
 
 export namespace CrossTraining.Slider.Fields {
-    export type Slider = { 
-        fields?: {  
+    export type Slider = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the SliderCards field (023962d9-1364-44ac-a3a8-30bef0eb88f7).
+            */
+            SliderCards: Sitecore.Override.ItemEx[];
+ 
         }
  }; 
 }
@@ -249,6 +257,28 @@ export namespace CrossTraining.Tab.Fields {
             */
             Tabs: Sitecore.Override.ItemEx[];
  
+        }
+ }; 
+}
+
+export namespace CrossTraining.Slider.Fields {
+    export type Testimonial = 
+            CrossTraining.Base.Fields.Headline & 
+            CrossTraining.Base.Fields.HeadlineTag & 
+            CrossTraining.Base.Fields.Description & { 
+        fields?: { 
+            /**
+            * Represents the Image field (969183ba-e849-4a01-a758-8645c7004f74).
+            */
+            Image: ImageField;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Slider.Fields {
+    export type TestimonialsFolder = { 
+        fields?: {  
         }
  }; 
 }

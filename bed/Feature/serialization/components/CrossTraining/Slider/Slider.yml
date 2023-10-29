@@ -1,18 +1,18 @@
 ﻿---
-ID: "7113419b-a66e-47ac-9d4c-4a2696a1d2c4"
-Parent: "b390b3bc-0eef-461a-8cb7-81697b121749"
+ID: "7b6feb22-5125-4af8-a9fe-ce541ef99e7f"
+Parent: "2474e82c-82cb-4feb-8b94-1de4edba8db5"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Feature/CrossTraining/Video Component/Video
+Path: /sitecore/layout/Renderings/Feature/CrossTraining/Slider/Slider
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Video
+  Value: Slider
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Feature/CrossTraining/Video/Video
+  Value: /sitecore/templates/Feature/CrossTraining/Slider/Slider
 - ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
   Hint: Datasource Location
-  Value: /sitecore/content/Mulyankan/CrossTraining/Data/Video
+  Value: /sitecore/content/Mulyankan/CrossTraining/Data/Slider
 Languages:
 - Language: en
   Versions:
@@ -20,7 +20,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231029T042618Z
+      Value: 20231029T052042Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -31,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2c5ce679-a082-45f0-8773-c5c1a3bbfb62"
+      Value: "731c2052-81b6-4cd6-a7a3-87edb2a1b0f9"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T045447Z
+      Value: 20231029T052632Z

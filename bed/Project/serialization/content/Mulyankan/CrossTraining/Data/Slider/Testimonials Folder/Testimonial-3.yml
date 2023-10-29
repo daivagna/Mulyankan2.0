@@ -1,0 +1,23 @@
+﻿---
+ID: "4fb1f984-3630-457f-a671-d765487ff3f9"
+Parent: "fe7fe4b5-0cee-4112-8dbf-3739c4a7a113"
+Template: "6ea6721e-b9fe-434d-8369-b96d568bc0bd"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Slider/Testimonials Folder/Testimonial-3"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T052306Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a078088-f9c1-4a8c-836b-f395cbcc2c49"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T052306Z
