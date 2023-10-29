@@ -1,0 +1,33 @@
+﻿---
+ID: "13c1df33-0b07-490d-8183-a920ec0c1fcd"
+Parent: "fe7fe4b5-0cee-4112-8dbf-3739c4a7a113"
+Template: "6ea6721e-b9fe-434d-8369-b96d568bc0bd"
+Path: "/sitecore/content/Mulyankan/CrossTraining/Data/Slider/Testimonials Folder/Testimonial-7"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T052306Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f39275b-46de-4f03-bffa-5b1cbaf10674"
+    - ID: "969183ba-e849-4a01-a758-8645c7004f74"
+      Hint: Image
+      Value: |
+        <image mediaid="{BA5B47C6-5701-421B-B236-843F1421C1AC}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: <p>We've been waiting for a powerful piece of software that can help businesses manage their marketing projects</p>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: "Tim Shaw - Designer"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T063529Z

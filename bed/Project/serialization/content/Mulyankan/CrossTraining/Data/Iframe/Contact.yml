@@ -1,0 +1,45 @@
+﻿---
+ID: "559851dd-18b7-4db3-8611-6d3447923980"
+Parent: "6883faef-4a40-403d-93cd-40fa8323a933"
+Template: "c8d746bc-b833-457a-86fb-76b3daee22ac"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Iframe/Contact
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T061433Z
+    - ID: "27db2356-0476-422f-9b38-e88bc22a64c8"
+      Hint: IframeUrl
+      Value: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.760347414159!2d73.19440301197304!3d22.32490154191619!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395fc8bd5e80724b%3A0x20763c9f79320ff0!2sHorizontal%20Integration%20India%20Pvt%20Ltd!5e0!3m2!1sen!2sin!4v1698560161261!5m2!1sen!2sin"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2ea5541-83bc-415e-807a-57c4f4220c64"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: |
+        <h2 class="heading-lg max-w-prose mb-2" component-name="helper/heading" data-testid="heading-heading-element" data-gtm-vis-recent-on-screen13249004_298="204" data-gtm-vis-first-on-screen13249004_298="204" data-gtm-vis-total-visible-time13249004_298="100" data-gtm-vis-has-fired13249004_298="1" style="color: #2f2d2e; margin: 0px 0px 0.5rem; border: 0px solid currentcolor; line-height: 1.125;">Vadodara, India</h2>
+        <address class="not-italic" style="color: #2f2d2e; border: 0px solid currentcolor;">
+        <ul style="margin: 0px; padding: 0px; border: 0px solid currentcolor; list-style-type: none; list-style-image: initial;">
+            <li class="mb-2" style="margin-bottom: 0.5rem; border: 0px solid currentcolor;"><a class="block mb-1 hover:underline focus:underline" href="https://maps.google.com/?q=3rd%20and%204th%20Floor,%20Gujarat%20Samachar%20Building,Opp.%20Utkarsh%20Petrol%20Pump,%20Near%20L&amp;T%20Circle,Karelibaug,%20Vadodara,%20Gujarat%20390018" target="_blank" rel="noopener noreferrer" style="color: inherit; margin-bottom: 0.25rem; border: 0px solid currentcolor; text-decoration: inherit;">3rd and 4th Floor, Gujarat Samachar Building,<br style="border: 0px solid currentcolor;" />
+            Opp. Utkarsh Petrol Pump, Near L&amp;T Circle,<br style="border: 0px solid currentcolor;" />
+            Karelibaug, Vadodara, Gujarat 390018</a></li>
+            <li style="border: 0px solid currentcolor;"><a class="block mb-1 hover:underline focus:underline" href="tel:+91-265-232-3272" style="color: inherit; margin-bottom: 0.25rem; border: 0px solid currentcolor; text-decoration: inherit;">+91-265-232-3272</a></li>
+            <li style="border: 0px solid currentcolor;"><a class="hover:underline focus:underline" href="mailto:BDQ@horizontal.com" style="color: inherit; border: 0px solid currentcolor; text-decoration: inherit;">BDQ@horizontal.com</a></li>
+        </ul>
+        </address>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: Horizontal Digital 
+    - ID: "ca30ce0a-5de3-4763-b5e4-c1f27912dccf"
+      Hint: Tag
+      Value: h1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T061904Z

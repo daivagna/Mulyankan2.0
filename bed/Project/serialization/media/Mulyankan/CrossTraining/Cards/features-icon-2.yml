@@ -1,0 +1,48 @@
+﻿---
+ID: "86514fab-a34c-4067-ba57-9c98283dce68"
+Parent: "c4ec7466-6aec-4942-822b-1916c9c08eb3"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Project/Mulyankan/CrossTraining/Cards/features-icon-2"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/86514FABA34C4067BA579C98283DCE68.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "09522d00-c822-49f8-a976-633971f87390"
+  Value: PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ny4zMyA0Ny4zMyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiM1OTRjZGE7fS5jbHMtMntmaWxsOiNlYjQyN2U7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5mZWF0dXJlcy1pY29uLTI8L3RpdGxlPjxwYXRoIGNsYXNzPSJjbHMtMSIgZD0iTTE5Ljg1MiwzLjMyNFYyNy40NzhINDQuMDA1QTIyLjA1OCwyMi4wNTgsMCwxLDEsMTkuODUyLDMuMzI0WiIvPjxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTI0LjI2NCwwQTI1LjM3MSwyNS4zNzEsMCwwLDEsNDcuMzMsMjMuMDY2SDI0LjI2NFYwWiIvPjwvc3ZnPg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 370
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T054633Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77e282d5-1fde-4f47-a382-796bdb064e79"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T054633Z
