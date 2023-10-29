@@ -174,10 +174,24 @@ export namespace CrossTraining.Iframe.Fields {
             CrossTraining.Base.Fields.Description & { 
         fields?: { 
             /**
-            * Represents the VideoUrl field (27db2356-0476-422f-9b38-e88bc22a64c8).
+            * Represents the IframeUrl field (27db2356-0476-422f-9b38-e88bc22a64c8).
             */
-            VideoUrl: Field<string>;
+            IframeUrl: Field<string>;
  
+        }
+ }; 
+}
+
+export namespace CrossTraining.TeamListing.Fields {
+    export type Member = { 
+        fields?: {  
+        }
+ }; 
+}
+
+export namespace CrossTraining.TeamListing.Fields {
+    export type MembersList = { 
+        fields?: {  
         }
  }; 
 }

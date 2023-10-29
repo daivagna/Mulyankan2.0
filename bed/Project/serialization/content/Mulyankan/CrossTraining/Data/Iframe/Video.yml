@@ -16,11 +16,14 @@ Languages:
       Value: "https://www.youtube.com/embed/sG-bIe4EWg0?si=wVkaGvxClXwhyTqH"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "82d8c193-334e-4d67-997a-b82aad277e5b"
+      Value: "bc8cb635-1e31-4564-ad9a-e184de0fb517"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: We starve to learn and grow and make sure that our team goes out as a presenter and attendees in latest technology events so they can upgrade their skills
     - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
       Hint: Heading
       Value: We Are In Global Events
@@ -29,4 +32,4 @@ Languages:
       Value: h2
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T100014Z
+      Value: 20231029T100238Z
