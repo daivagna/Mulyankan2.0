@@ -13,7 +13,6 @@ const FooterDefaultComponent = (): JSX.Element => (
 );
 
 export const Default = (props: FooterProps): JSX.Element => {
-  
   if (props.fields) {
     return (
       <>
