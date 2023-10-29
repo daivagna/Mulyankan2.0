@@ -2,7 +2,7 @@
 ID: "330538df-dd62-4738-a98e-26a3bfc84f9c"
 Parent: "48ecee74-5f2f-432e-8d58-0e4dd928f1e5"
 Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
-Path: /sitecore/templates/Feature/CrossTraining/Team Listing/Member/Member Details/Name
+Path: /sitecore/templates/Feature/CrossTraining/Team Listing/Member/Member Details/MemberName
 SharedFields:
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
