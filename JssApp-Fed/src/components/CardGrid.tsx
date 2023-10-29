@@ -23,10 +23,10 @@ type CardListProps = {
 };
 
 const CardList = (props: CardListProps): JSX.Element => {
-  console.log('data is ' + JSON.stringify(props.rendering.fields.Cards));
+  //console.log('data is ' + JSON.stringify(props.rendering.fields.Cards));
 
   const list = props.rendering.fields.Cards;
-  console.log('list is ' + JSON.stringify(list[0]));
+  //console.log('list is ' + JSON.stringify(list[0]));
 
   return (
     <>
@@ -36,9 +36,9 @@ const CardList = (props: CardListProps): JSX.Element => {
         <div className="text-4xl sm:text-5xl text-center my-10">
           {props.rendering.fields.Heading.value}
         </div>
-        <div className="grid grid-cols-3 gap-3 auto-rows-max">
+        <div className="grid grid-col md:grid-cols-3 gap-3 auto-rows-max">
           {list.map((fields: any, index) => {
-            console.log('FIeld name' + JSON.stringify(fields.fields.CardImage.value));
+            //console.log('FIeld name' + JSON.stringify(fields.fields.CardImage.value));
 
             return (
               <div key="1" className=" max-w-5xl m-auto ">

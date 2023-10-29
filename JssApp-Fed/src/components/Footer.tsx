@@ -2,8 +2,6 @@ import React from 'react';
 import { RichText as JssRichText } from '@sitecore-jss/sitecore-jss-nextjs';
 import { CrossTraining } from '../.generated/templates/models/Feature.CrossTraining.Model';
 import Link from 'next/link';
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faFacebookF } from '@fortawesome/free-brands-svg-icons';
 type FooterProps = CrossTraining.Navigation.Footer.Fields.Footer;
 
 const FooterDefaultComponent = (): JSX.Element => (
@@ -15,12 +13,11 @@ const FooterDefaultComponent = (): JSX.Element => (
 );
 
 export const Default = (props: FooterProps): JSX.Element => {
-  console.log(JSON.stringify(props.fields?.SocialIcon[0].fields.ClassName.value));
   if (props.fields) {
     return (
       <>
         <div className="footer bg-cyan-100">
-          {/* <FontAwesomeIcon icon={props.fields.SocialIcon[0].fields.ClassName.value} /> */}
+          
           <div className="px-4 sm:px-8 text-center">
             <JssRichText
               className="text-[1.5rem] mb-8 font-bold "
@@ -28,12 +25,13 @@ export const Default = (props: FooterProps): JSX.Element => {
             ></JssRichText>
             <div className="social-container flex justify-around pb-1 ">
               {props.fields?.SocialIcon.map((fields: any, index) => (
-                <span className="fa-stack " key={index}>
+                <span className="fa-stack rounded-full flex items-center justify-center p-[35px] bg-white hover:bg-black" key={index}>
                   <Link className="text-black font-medium" href={fields.fields.Link?.value.href}>
-                    {/* <i className="fas fa-circle fa-stack-2x"></i> */}
-                    {/* <i className={props.fields?.SocialIcon[0].fields.ClassName.value}></i> */}
-                    {/* <FontAwesomeIcon className='h-9' icon={props.fields?.SocialIcon[0].fields.ClassName.value}/> */}
-                    {fields.fields.Title?.value}
+                    <span
+                      className={`fa ${fields.fields.ClassName.value} text-4xl hover:text-white`}
+                      aria-hidden="true"
+                    ></span>
+                   
                   </Link>
                 </span>
               ))}

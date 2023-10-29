@@ -1,0 +1,43 @@
+﻿---
+ID: "f0bd8864-0ab0-4c9d-b7e4-f05bfa691065"
+Parent: "c2d32e92-6beb-4a92-9eb1-b1b38a27bda3"
+Template: "cdcb57a4-50d1-4d76-bdd9-e775bb111f5a"
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Our Team/Our Team/Nikhil
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T102722Z
+    - ID: "330538df-dd62-4738-a98e-26a3bfc84f9c"
+      Hint: Name
+      Value: Nikhi Raj
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bf0b24b-6f3c-41b7-a401-ecf753ae2f67"
+    - ID: "955bfa94-538a-4f82-bbcd-eeb3ecbbf992"
+      Hint: Image
+      Value: |
+        <image mediaid="{A677ECB0-0746-4094-936E-F6BC43685B5C}" />
+    - ID: "a2b11b1f-e645-483f-90cb-a00a11b70897"
+      Hint: Skills
+      Value: |
+        {A004273F-84D8-49B0-A496-4E9360675AC2}
+        {0F36F694-D453-4849-9FB9-601BC96FC27A}
+        {25B3258B-9325-4C73-91B6-602276E6B5BD}
+        {B486FBD4-DC4E-4A93-A041-7EA34EBA9B70}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T104919Z
+    - ID: "dcf5f51c-35c5-4131-be37-0146cd1d3823"
+      Hint: Department
+      Value: "{FA907232-48D4-40BE-96CC-6CB1808B79E9}"
+    - ID: "e2f2374d-c0b9-4914-9ed8-f49a9d8f0ba1"
+      Hint: Designation
+      Value: "{0BAB49CC-9175-46D4-8C05-36EBEE9186F6}"

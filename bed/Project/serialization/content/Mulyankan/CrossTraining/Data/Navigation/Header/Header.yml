@@ -21,15 +21,13 @@ Languages:
         <image mediaid="{F788FC61-5ADF-43E7-84CD-24615AB71F51}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "91d2e599-8f72-4234-9285-c93ad9b3e9f3"
+      Value: "be608145-d3bf-4c81-9448-6fcb7bd8a73b"
     - ID: "a8a06d9d-b646-473e-8fa7-48fe9d3423a1"
       Hint: NavigationLinks
       Value: |
-        {EC7D2701-0378-4B43-BA34-0029D8667D30}
         {CB2C57C2-5460-41D9-B982-7DB46EB162DA}
+        {EC7D2701-0378-4B43-BA34-0029D8667D30}
         {227AA684-43F8-4A13-AE22-B576DB1A8A05}
-        {44E9A290-3C9B-4FE2-ABEB-95041C71AC32}
-        {BCFCD14E-B047-4954-9014-96EAC125BFCD}
         {0FDA142E-9831-4ADC-8303-30C3CF1B95D5}
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
@@ -37,4 +35,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231028T115904Z
+      Value: 20231029T104302Z

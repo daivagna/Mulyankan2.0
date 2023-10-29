@@ -1,0 +1,35 @@
+﻿---
+ID: "3758b774-762d-4233-b3e5-b867c6a41088"
+Parent: "faf1dd9c-3904-4afb-a63b-db94c585efa8"
+Template: "faf1dd9c-3904-4afb-a63b-db94c585efa8"
+Path: /sitecore/templates/Feature/CrossTraining/Team Listing/Members List/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{CDCB57A4-50D1-4D76-BDD9-E775BB111F5A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231029T102126Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "36d272d9-6eb2-4c96-b9dc-0dabe5b63215"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T102141Z
