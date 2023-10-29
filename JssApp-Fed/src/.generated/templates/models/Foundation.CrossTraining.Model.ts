@@ -28,6 +28,18 @@ export namespace CrossTraining.Base.Fields {
 }
 
 export namespace CrossTraining.Base.Fields {
+    export type HeadingTagList = { 
+        fields?: { 
+            /**
+            * Represents the HeadingTag field (aa07375a-0ff6-49b9-be48-981a757b32e2).
+            */
+            HeadingTag: Field<string>;
+ 
+        }
+ }; 
+}
+
+export namespace CrossTraining.Base.Fields {
     export type Headline = { 
         fields?: { 
             /**

@@ -1,8 +1,8 @@
 ﻿---
-ID: "3193219d-689f-41f3-a3d9-b9c239dd9f56"
+ID: "6e6738aa-9c73-470d-afd8-69547e1266b3"
 Parent: "6883faef-4a40-403d-93cd-40fa8323a933"
 Template: "c8d746bc-b833-457a-86fb-76b3daee22ac"
-Path: /sitecore/content/Mulyankan/CrossTraining/Data/Video Component/Video Component
+Path: /sitecore/content/Mulyankan/CrossTraining/Data/Video Component/Video
 Languages:
 - Language: en
   Versions:
@@ -10,13 +10,10 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20231028T150045Z
-    - ID: "27db2356-0476-422f-9b38-e88bc22a64c8"
-      Hint: VideoUrl
-      Value: "https://www.youtube.com/watch?v=e3AZHz3crT8"
+      Value: 20231029T044550Z
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "f6dd13eb-0c61-49f6-a384-fbdb4b2d5617"
+      Value: "b56052f5-3856-41ae-8a77-6b82e424174e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -26,4 +23,4 @@ Languages:
       Value: h2
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T043248Z
+      Value: 20231029T044847Z

@@ -55,7 +55,7 @@ SharedFields:
         <r
           uid="{60214499-72B4-447A-9902-81178EF1AB0A}"
           p:after="*[1=2]"
-          s:ds="{3193219D-689F-41F3-A3D9-B9C239DD9F56}"
+          s:ds="{6E6738AA-9C73-470D-AFD8-69547E1266B3}"
           s:id="{7113419B-A66E-47AC-9D4C-4A2696A1D2C4}"
           s:par=""
           s:ph="headless-main"
@@ -86,7 +86,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "d842a1c2-b3d7-4d29-9b7e-0752dcecd323"
+      Value: "e56d0607-1c0f-4ba8-b30d-f03b83c259ec"
     - ID: "9de29a57-9fb6-4d64-bb6e-22b74cf67485"
       Hint: Title
       Value: CrossTraining
@@ -96,4 +96,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T042938Z
+      Value: 20231029T045019Z
