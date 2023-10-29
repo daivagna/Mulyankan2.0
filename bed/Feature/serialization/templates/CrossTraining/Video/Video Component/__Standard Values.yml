@@ -1,0 +1,33 @@
+﻿---
+ID: "7f68ed6b-5b42-4d41-8e81-5a0f24851c04"
+Parent: "c8d746bc-b833-457a-86fb-76b3daee22ac"
+Template: "c8d746bc-b833-457a-86fb-76b3daee22ac"
+Path: /sitecore/templates/Feature/CrossTraining/Video/Video Component/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231028T145642Z
+    - ID: "27db2356-0476-422f-9b38-e88bc22a64c8"
+      Hint: VideoUrl
+      Value: Add Video Url
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ca04e8c-bd4f-480b-8381-940c5953888b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bcdcf1f2-ac93-41b4-bc96-7f44f97867e4"
+      Hint: BodyCopy
+      Value: |
+        <span style="color: #1f2937;">Team management mobile applications don&rsquo;t get much better than Pavo. Download it today</span>
+    - ID: "c177f5c1-03e4-4eaa-812e-64818088203f"
+      Hint: Heading
+      Value: ADD Title Here
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231029T043309Z
