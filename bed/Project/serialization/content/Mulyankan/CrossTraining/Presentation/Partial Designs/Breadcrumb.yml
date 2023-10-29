@@ -7,6 +7,20 @@ SharedFields:
 - ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
   Hint: Signature
   Value: breadcrumb
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{A6B2FD5E-2967-4D00-9C91-47D36CE66944}"
+          s:id="{14B7281C-C319-4A9C-970B-43A69E9EE437}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish"
+          s:ph="headless-header" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -21,11 +35,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6522bf93-e1c4-494a-8d44-518cacc0d8b5"
+      Value: "345625a6-6281-47a9-875b-3d6a647c820c"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T092406Z
+      Value: 20231029T101109Z
