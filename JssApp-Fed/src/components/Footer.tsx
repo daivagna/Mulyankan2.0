@@ -17,7 +17,6 @@ export const Default = (props: FooterProps): JSX.Element => {
     return (
       <>
         <div className="footer bg-cyan-100">
-          
           <div className="px-4 sm:px-8 text-center">
             <JssRichText
               className="text-[1.5rem] mb-8 font-bold "
@@ -25,13 +24,15 @@ export const Default = (props: FooterProps): JSX.Element => {
             ></JssRichText>
             <div className="social-container flex justify-around pb-1 ">
               {props.fields?.SocialIcon.map((fields: any, index) => (
-                <span className="fa-stack rounded-full flex items-center justify-center p-[35px] bg-white hover:bg-black" key={index}>
+                <span
+                  className="fa-stack rounded-full flex items-center justify-center p-[35px] bg-white hover:bg-black"
+                  key={index}
+                >
                   <Link className="text-black font-medium" href={fields.fields.Link?.value.href}>
                     <span
                       className={`fa ${fields.fields.ClassName.value} text-4xl hover:text-white`}
                       aria-hidden="true"
                     ></span>
-                   
                   </Link>
                 </span>
               ))}
