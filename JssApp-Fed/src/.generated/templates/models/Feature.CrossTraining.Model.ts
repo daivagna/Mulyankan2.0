@@ -206,9 +206,9 @@ export namespace CrossTraining.TeamListing.Fields {
             Image: ImageField;
 
             /**
-            * Represents the Name field (330538df-dd62-4738-a98e-26a3bfc84f9c).
+            * Represents the MemberName field (330538df-dd62-4738-a98e-26a3bfc84f9c).
             */
-            Name: Field<string>;
+            MemberName: Field<string>;
 
             /**
             * Represents the Skills field (a2b11b1f-e645-483f-90cb-a00a11b70897).

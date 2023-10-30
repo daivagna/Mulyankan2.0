@@ -14,14 +14,14 @@ Languages:
     - ID: "681d74f7-8585-475f-93ab-9d57dbf26098"
       Hint: LogoLink
       Value: |
-        <link text="Horizontal Digital" linktype="anchor" url="https://www.horizontaldigital.com" anchor="https://www.horizontaldigital.com" title="Horizontal Digital" class="" />
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{61931D39-7F00-42AB-B039-595B90DDFAD7}" />
     - ID: "73ce6680-4193-457b-9a90-d12684227e70"
       Hint: Logo
       Value: |
         <image mediaid="{F788FC61-5ADF-43E7-84CD-24615AB71F51}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "be608145-d3bf-4c81-9448-6fcb7bd8a73b"
+      Value: "0ab1c4b0-8e91-40ac-9b44-fd558cd7869e"
     - ID: "a8a06d9d-b646-473e-8fa7-48fe9d3423a1"
       Hint: NavigationLinks
       Value: |
@@ -35,4 +35,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20231029T104302Z
+      Value: 20231029T105852Z
